@@ -1,0 +1,63 @@
+{
+  "aliases": {},
+  "claims": {
+    "P2": [
+      {
+        "id": "Q91$dcf85ed5-4603-3332-0874-0e8ecfdddf69",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q77",
+              "numeric-id": 77
+            }
+          },
+          "hash": "58a95c5d5d7c9e72a6a124041af2fa2803d00af4",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q91$1b31d130-428e-29e8-8ea6-fa50ac2f65a9",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://www.wikidata.org/entity/Q628858"
+          },
+          "hash": "a48a015187a228322cf50a1b318d1845f499e39d",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "place type"
+    }
+  },
+  "id": "Q91",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Working Place"
+    }
+  },
+  "lastrevid": 736,
+  "modified": "2025-03-11T14:45:13Z",
+  "ns": 120,
+  "pageid": 151,
+  "sitelinks": {},
+  "title": "Item:Q91",
+  "type": "item"
+}

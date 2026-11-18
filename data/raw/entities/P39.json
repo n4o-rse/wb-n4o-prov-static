@@ -1,0 +1,19 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "wikibase-property",
+  "descriptions": {},
+  "id": "P39",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "corresponds with"
+    }
+  },
+  "lastrevid": 445,
+  "modified": "2025-03-11T09:26:09Z",
+  "ns": 122,
+  "pageid": 96,
+  "title": "Property:P39",
+  "type": "property"
+}

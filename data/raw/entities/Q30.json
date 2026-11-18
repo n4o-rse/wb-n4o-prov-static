@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "relationship type"
+    }
+  },
+  "id": "Q30",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Husband"
+    }
+  },
+  "lastrevid": 239,
+  "modified": "2024-12-09T12:19:29Z",
+  "ns": 120,
+  "pageid": 62,
+  "sitelinks": {},
+  "title": "Item:Q30",
+  "type": "item"
+}

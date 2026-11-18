@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "url",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "statement (collection)"
+    }
+  },
+  "id": "P47",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "collection URL"
+    }
+  },
+  "lastrevid": 492,
+  "modified": "2025-03-11T12:43:29Z",
+  "ns": 122,
+  "pageid": 111,
+  "title": "Property:P47",
+  "type": "property"
+}

@@ -1,0 +1,264 @@
+{
+  "aliases": {},
+  "claims": {
+    "P19": [
+      {
+        "id": "Q20$14819ceb-4b4e-c4d6-4c0a-4f009c3a70e4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15",
+              "numeric-id": 15
+            }
+          },
+          "hash": "85a3b407acd353b10840338dc2effbbc3101a09c",
+          "property": "P19",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q20$f6242ab5-47ff-7edd-8431-b431ea931e62",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "hash": "a32497b849d1964f21897e84ee8e80317d84992f",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20$1ace64a8-47c1-95a5-542c-6a54582412d7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6",
+              "numeric-id": 6
+            }
+          },
+          "hash": "c51230a5ab28e222eea895a3c9bc66e113953a89",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q20$cb4f0cef-43ff-7f1b-967e-ffc4dd47631b",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21",
+              "numeric-id": 21
+            }
+          },
+          "hash": "8c4b34ffa960f9cb451266a43dbea3e785cec87f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "6d0891d3a1d2159d8008f697b699b41ebb01c7b3",
+            "snaks": {
+              "P13": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://ikmk.smb.museum/object?id=18242415"
+                  },
+                  "hash": "24eb22df242d08e69d90e48d0fe2e563b20cf1bf",
+                  "property": "P13",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P13"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P21": [
+      {
+        "id": "Q20$6a734430-456d-7d13-da57-8bb4bb5f9f04",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://ikmk.smb.museum/ndp/person/8221"
+          },
+          "hash": "4164b0d20d61f1b6e2ab1dd0e1c5677a05e06ce3",
+          "property": "P21",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P22": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P12",
+                  "numeric-id": 12
+                }
+              },
+              "hash": "b3c13ec5fb21cd16ac74d3ce7554d666eac8fd6b",
+              "property": "P22",
+              "snaktype": "value"
+            }
+          ],
+          "P23": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q14",
+                  "numeric-id": 14
+                }
+              },
+              "hash": "6997e5a8f743bd34c7f57f8989839316facdeaff",
+              "property": "P23",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P22",
+          "P23"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P24": [
+      {
+        "id": "Q20$b92be85e-42fc-360e-a68f-8820b61e0672",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://www.wikidata.org/entity/Q3820"
+          },
+          "hash": "0efc0d19e3167aa1fae717f544aecec6aa6813ae",
+          "property": "P24",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P25": [
+      {
+        "id": "Q20$8de8c5b3-4a3f-2bfd-0bdf-ae33b4f4ad6b",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 33.886944444444445,
+              "longitude": 35.51305555555555,
+              "precision": 0.0002777777777777778
+            }
+          },
+          "hash": "9155e6a6b780fdc7d3411702a54ff51816216739",
+          "property": "P25",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P29": [
+      {
+        "id": "Q20$a5f4b1b7-480b-8d76-2c36-e63601538744",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://ikmk.smb.museum/object?id=18242415"
+          },
+          "hash": "92d7ef890ebb035e9b34cb44d7ae3b4ed24cbfb6",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20$c88f1f4a-4c93-d107-26a5-adfb4dc00c1c",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://ikmk.smb.museum/object?id=18258031"
+          },
+          "hash": "a8820208a86abdfd8519f2a5e0793d1daaedfd2e",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Münzhändler"
+    },
+    "en": {
+      "language": "en",
+      "value": "Coin dealer in Beyrouth (Beirut)"
+    }
+  },
+  "id": "Q20",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Zakaris Bezdikian"
+    },
+    "en": {
+      "language": "en",
+      "value": "Zakaris Bezdikian"
+    }
+  },
+  "lastrevid": 198,
+  "modified": "2024-04-17T10:18:35Z",
+  "ns": 120,
+  "pageid": 42,
+  "sitelinks": {},
+  "title": "Item:Q20",
+  "type": "item"
+}

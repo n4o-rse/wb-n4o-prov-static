@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "time",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "qualifier"
+    }
+  },
+  "id": "P49",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "point in time"
+    }
+  },
+  "lastrevid": 499,
+  "modified": "2025-03-11T12:49:07Z",
+  "ns": 122,
+  "pageid": 113,
+  "title": "Property:P49",
+  "type": "property"
+}

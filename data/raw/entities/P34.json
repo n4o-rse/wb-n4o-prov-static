@@ -1,0 +1,19 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "wikibase-item",
+  "descriptions": {},
+  "id": "P34",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "belongs to collection"
+    }
+  },
+  "lastrevid": 292,
+  "modified": "2024-12-09T17:16:34Z",
+  "ns": 122,
+  "pageid": 75,
+  "title": "Property:P34",
+  "type": "property"
+}

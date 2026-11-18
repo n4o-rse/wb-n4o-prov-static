@@ -1,0 +1,63 @@
+{
+  "aliases": {},
+  "claims": {
+    "P2": [
+      {
+        "id": "Q118$a44ade68-467c-9668-1132-f2917de795dd",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54",
+              "numeric-id": 54
+            }
+          },
+          "hash": "97328927921a3f33123ef0b5a84fb2635ebacee8",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P24": [
+      {
+        "id": "Q118$2379424a-45cf-68ba-c088-be4f1998726f",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://www.wikidata.org/entity/Q1726"
+          },
+          "hash": "5bd0307bfd87681fcda15da226be4b3faa8e94f5",
+          "property": "P24",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "location"
+    }
+  },
+  "id": "Q118",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "München"
+    }
+  },
+  "lastrevid": 906,
+  "modified": "2025-03-11T16:23:56Z",
+  "ns": 120,
+  "pageid": 178,
+  "sitelinks": {},
+  "title": "Item:Q118",
+  "type": "item"
+}

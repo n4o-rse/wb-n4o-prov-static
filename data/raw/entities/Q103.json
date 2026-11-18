@@ -1,0 +1,137 @@
+{
+  "aliases": {},
+  "claims": {
+    "P2": [
+      {
+        "id": "Q103$698d34b5-422f-e288-5d3e-6251e127a80c",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33",
+              "numeric-id": 33
+            }
+          },
+          "hash": "eeb13f23b7143738f387f9e54ee143e8516775e3",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P33": [
+      {
+        "id": "Q103$896e3146-4c8e-d9e4-7761-bb323efcedb9",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.britishmuseum.org/collection/object/C_1979-0101-351"
+          },
+          "hash": "df85903d04313f0e2dc48bdbf9728dcad1ffff09",
+          "property": "P33",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P34": [
+      {
+        "id": "Q103$914def22-4a16-d11f-bc85-3f2547a7262e",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q97",
+              "numeric-id": 97
+            }
+          },
+          "hash": "9952661868b59eed91678b4f21c91c3524c7853d",
+          "property": "P34",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P45": [
+      {
+        "id": "Q103$9d85bb1e-40ef-89a9-8a69-4e744ef6e517",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "1979,0101.351"
+          },
+          "hash": "7c368b581750a9cf38ee9a8454cce2b6c05fea5f",
+          "property": "P45",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q103$63b03e32-473e-a49c-738e-6691990e59c5",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "SNG (SNG von Aulock) (7763)(7763)"
+          },
+          "hash": "0d9c6b1602481deed083d85094eb79a10f12aa15",
+          "property": "P45",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P46": [
+      {
+        "id": "Q103$33f43364-4648-6c66-546c-11524b1bab6d",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q63",
+              "numeric-id": 63
+            }
+          },
+          "hash": "ac00635e4b38934e6e44b07e7feb4254b6352982",
+          "property": "P46",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "object"
+    }
+  },
+  "id": "Q103",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "coin 1979,0101.351 (British Museum)"
+    }
+  },
+  "lastrevid": 796,
+  "modified": "2025-03-11T15:21:05Z",
+  "ns": 120,
+  "pageid": 163,
+  "sitelinks": {},
+  "title": "Item:Q103",
+  "type": "item"
+}

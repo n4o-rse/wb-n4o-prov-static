@@ -1,0 +1,75 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1": [
+      {
+        "id": "Q18$74eb6b49-49b8-8cd1-b9ff-64ecc9d5ae35",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q5",
+              "numeric-id": 5
+            }
+          },
+          "hash": "601c8e56a2a3394f27cfcb24eb1f95a3f8d68633",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q18$206eed34-4c66-63e7-36f3-25afeb4ab901",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16",
+              "numeric-id": 16
+            }
+          },
+          "hash": "cf8fd75b3c9da837484305cd4865d6b728ba4d17",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Rolle"
+    },
+    "en": {
+      "language": "en",
+      "value": "role"
+    }
+  },
+  "id": "Q18",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Vorbesitzer/in"
+    },
+    "en": {
+      "language": "en",
+      "value": "Previous Owner"
+    }
+  },
+  "lastrevid": 53,
+  "modified": "2023-11-10T10:38:33Z",
+  "ns": 120,
+  "pageid": 20,
+  "sitelinks": {},
+  "title": "Item:Q18",
+  "type": "item"
+}

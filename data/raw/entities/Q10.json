@@ -1,0 +1,67 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1": [
+      {
+        "id": "Q10$d70414b4-465b-f9e6-43f7-8f62297cb1e7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q5",
+              "numeric-id": 5
+            }
+          },
+          "hash": "601c8e56a2a3394f27cfcb24eb1f95a3f8d68633",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q10$4a6e216a-45c0-21a7-bec4-5e6e69a1dc59",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12",
+              "numeric-id": 12
+            }
+          },
+          "hash": "981b7d0f2083b0bf5aad4e741eb5ebb2a7fb0bec",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Wikidata Community Hub"
+    }
+  },
+  "id": "Q10",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Wikidata"
+    }
+  },
+  "lastrevid": 29,
+  "modified": "2023-11-10T08:57:48Z",
+  "ns": 120,
+  "pageid": 10,
+  "sitelinks": {},
+  "title": "Item:Q10",
+  "type": "item"
+}

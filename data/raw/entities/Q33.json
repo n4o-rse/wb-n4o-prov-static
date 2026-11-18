@@ -1,0 +1,74 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "E22 Human-Made Object"
+      }
+    ]
+  },
+  "claims": {
+    "P1": [
+      {
+        "id": "Q33$292c0198-4855-e3d2-c841-335abb78686d",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q5",
+              "numeric-id": 5
+            }
+          },
+          "hash": "601c8e56a2a3394f27cfcb24eb1f95a3f8d68633",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q33$7b932394-438a-a8a1-40fe-eda477f9209e",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q42",
+              "numeric-id": 42
+            }
+          },
+          "hash": "eaf13dfca18b574bc0953e28d43f8958cda9ee19",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Core Entity"
+    }
+  },
+  "id": "Q33",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Object"
+    }
+  },
+  "lastrevid": 307,
+  "modified": "2024-12-09T17:21:52Z",
+  "ns": 120,
+  "pageid": 65,
+  "sitelinks": {},
+  "title": "Item:Q33",
+  "type": "item"
+}

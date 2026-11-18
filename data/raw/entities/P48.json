@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "qualifier (object)"
+    }
+  },
+  "id": "P48",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "human/cooperatebody role"
+    }
+  },
+  "lastrevid": 505,
+  "modified": "2025-03-11T12:52:28Z",
+  "ns": 122,
+  "pageid": 112,
+  "title": "Property:P48",
+  "type": "property"
+}

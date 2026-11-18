@@ -1,0 +1,63 @@
+{
+  "aliases": {},
+  "claims": {
+    "P2": [
+      {
+        "id": "Q86$d9acab7a-4bbe-68ab-fdd3-6cc84d2a312c",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54",
+              "numeric-id": 54
+            }
+          },
+          "hash": "97328927921a3f33123ef0b5a84fb2635ebacee8",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P24": [
+      {
+        "id": "Q86$fc043cfc-4133-961d-b2be-feacd47b9225",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://www.wikidata.org/entity/Q3778"
+          },
+          "hash": "368786a989b14acd5145bcf7121140f5e6bc35a8",
+          "property": "P24",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "location"
+    }
+  },
+  "id": "Q86",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Zwickau"
+    }
+  },
+  "lastrevid": 674,
+  "modified": "2025-03-11T14:07:19Z",
+  "ns": 120,
+  "pageid": 146,
+  "sitelinks": {},
+  "title": "Item:Q86",
+  "type": "item"
+}

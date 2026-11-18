@@ -1,0 +1,260 @@
+{
+  "aliases": {},
+  "claims": {
+    "P2": [
+      {
+        "id": "Q125$5b217fe5-484d-1a79-f960-cb9a95adea1c",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33",
+              "numeric-id": 33
+            }
+          },
+          "hash": "eeb13f23b7143738f387f9e54ee143e8516775e3",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P33": [
+      {
+        "id": "Q125$425a05a9-42b1-fe24-e0fe-b1959b1fa9da",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://recherche.smb.museum/detail/958888/plauderstunde-am-brunnen"
+          },
+          "hash": "5e77baeae577e0967fd4f49477e1a54aafe00d8a",
+          "property": "P33",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P34": [
+      {
+        "id": "Q125$bdb9ede3-4e38-a172-e9fc-065b1251a533",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126",
+              "numeric-id": 126
+            }
+          },
+          "hash": "30de1d49305a25b0fa5dc143419da737c65c1870",
+          "property": "P34",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P61": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "1861"
+              },
+              "hash": "42bd3d44a0e913a3cf7ae71ce84dabd8d89fc0a2",
+              "property": "P61",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P61"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P45": [
+      {
+        "id": "Q125$c75a5a0d-4ae1-b683-61f9-98d6cae0a317",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "W.S. 13"
+          },
+          "hash": "3f1524a436378e128df47a5c50f87d17235b8b9a",
+          "property": "P45",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P46": [
+      {
+        "id": "Q125$b1ab2fcd-4540-a7d7-0569-fb60828aa951",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q108",
+              "numeric-id": 108
+            }
+          },
+          "hash": "8857c0e025075826e987adbbe1dcbeb87cbb7d5b",
+          "property": "P46",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P63": [
+      {
+        "id": "Q125$87fb62b4-4445-9f9f-4f0b-b127e4bc7d1f",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127",
+              "numeric-id": 127
+            }
+          },
+          "hash": "39fd07e45f6bf15481c556781fe63d0c86f77a3b",
+          "property": "P63",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q125$fd96f5d5-4113-a0ab-2d33-4effb5953c86",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120",
+              "numeric-id": 120
+            }
+          },
+          "hash": "c48166e59d311adc484dcfeafe25deefc0e91c7c",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P61": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "1853"
+              },
+              "hash": "75a920a8ef01e69ad9c61adeaaa1fbfd8deb2de8",
+              "property": "P61",
+              "snaktype": "value"
+            }
+          ],
+          "P62": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "1854"
+              },
+              "hash": "2a89ad115bf9fa659dbdf11da6b60c15f1ab66f4",
+              "property": "P62",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P61",
+          "P62"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125$891e47a7-4203-6526-2e5f-32d6bb7a668a",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128",
+              "numeric-id": 128
+            }
+          },
+          "hash": "4a650436337abc75c6d96d4661d5fcfbf6363339",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P61": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "1854"
+              },
+              "hash": "2332ce85e5568ae6b104790e8df4cd3779a2b507",
+              "property": "P61",
+              "snaktype": "value"
+            }
+          ],
+          "P62": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "18.01.1861"
+              },
+              "hash": "53662011f9aa8de57f9e89687c7f9afb86b48697",
+              "property": "P62",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P61",
+          "P62"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "painting"
+    }
+  },
+  "id": "Q125",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Plauderstunde am Brunnen"
+    }
+  },
+  "lastrevid": 1044,
+  "modified": "2025-06-02T09:26:22Z",
+  "ns": 120,
+  "pageid": 191,
+  "sitelinks": {},
+  "title": "Item:Q125",
+  "type": "item"
+}

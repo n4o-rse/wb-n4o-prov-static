@@ -1,0 +1,141 @@
+{
+  "aliases": {},
+  "claims": {
+    "P2": [
+      {
+        "id": "Q84$d84a4167-48d9-2975-92f0-9254c93ef79d",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33",
+              "numeric-id": 33
+            }
+          },
+          "hash": "eeb13f23b7143738f387f9e54ee143e8516775e3",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P33": [
+      {
+        "id": "Q84$3372bb52-4a16-d6d7-2174-0a5993488171",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://ikmk.smb.museum/object?id=18257105"
+          },
+          "hash": "0bb7a6bc5aba3a008f573a68945c0b6ab3191206",
+          "property": "P33",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P34": [
+      {
+        "id": "Q84$51f0eb63-4130-22d2-1bbc-9ad99cd42b3a",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q65",
+              "numeric-id": 65
+            }
+          },
+          "hash": "de978ac6cd7bfb4236652118e16f8689940ffa90",
+          "property": "P34",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q84$e7e039ff-4d85-69b8-0ef3-732775ca6f1d",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41",
+              "numeric-id": 41
+            }
+          },
+          "hash": "d479b3238e3260045e421339e6b02e42bb1c08ca",
+          "property": "P34",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P45": [
+      {
+        "id": "Q84$591ca53a-481e-954d-0e98-9c71c4114ad2",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "18257105"
+          },
+          "hash": "2f979945fb5d6cb1c6a660b6ebea39e9c3519653",
+          "property": "P45",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P46": [
+      {
+        "id": "Q84$51b8e580-42e8-e43c-e5d7-cb55eab32f6d",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q63",
+              "numeric-id": 63
+            }
+          },
+          "hash": "ac00635e4b38934e6e44b07e7feb4254b6352982",
+          "property": "P46",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "object"
+    }
+  },
+  "id": "Q84",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Mainz: Adolf I. von Nassau 1381-1385"
+    }
+  },
+  "lastrevid": 664,
+  "modified": "2025-03-11T14:02:44Z",
+  "ns": 120,
+  "pageid": 144,
+  "sitelinks": {},
+  "title": "Item:Q84",
+  "type": "item"
+}

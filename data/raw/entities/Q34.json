@@ -1,0 +1,92 @@
+{
+  "aliases": {},
+  "claims": {
+    "P2": [
+      {
+        "id": "Q34$73137e02-4c89-f677-c67f-ee30ad235854",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33",
+              "numeric-id": 33
+            }
+          },
+          "hash": "eeb13f23b7143738f387f9e54ee143e8516775e3",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P33": [
+      {
+        "id": "Q34$40eaae97-4337-77e3-fc44-09e819e5850f",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://ikmk.smb.museum/object?id=18257669"
+          },
+          "hash": "f3fa2d6f6234737a4657f7f1b987493d572f640c",
+          "property": "P33",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P34": [
+      {
+        "id": "Q34$91930175-4258-81ca-28c4-8f67f242e5e4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41",
+              "numeric-id": 41
+            }
+          },
+          "hash": "d479b3238e3260045e421339e6b02e42bb1c08ca",
+          "property": "P34",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Interaktiver Katalog des Münzkabinetts Berlin 18257669"
+    },
+    "en": {
+      "language": "en",
+      "value": "Interaktiver Katalog des Münzkabinetts Berlin 18257669"
+    }
+  },
+  "id": "Q34",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Alexandria: Aurelianus und Vaballathus 270-271 n. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "Alexandria: Aurelianus und Vaballathus 270-271 n. Chr."
+    }
+  },
+  "lastrevid": 315,
+  "modified": "2024-12-09T17:25:39Z",
+  "ns": 120,
+  "pageid": 66,
+  "sitelinks": {},
+  "title": "Item:Q34",
+  "type": "item"
+}

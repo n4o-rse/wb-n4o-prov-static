@@ -1,0 +1,63 @@
+{
+  "aliases": {},
+  "claims": {
+    "P2": [
+      {
+        "id": "Q78$b4050196-4f74-1c8e-def3-5299050c3d5a",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q77",
+              "numeric-id": 77
+            }
+          },
+          "hash": "58a95c5d5d7c9e72a6a124041af2fa2803d00af4",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q78$59c713d5-4e8d-ff64-6634-5f0b6b7abfbb",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://www.wikidata.org/entity/Q1589826"
+          },
+          "hash": "bf45b0b6f5e828e7e2bb7cb6f2b51ae6805f7724",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "place type"
+    }
+  },
+  "id": "Q78",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Place of residence"
+    }
+  },
+  "lastrevid": 615,
+  "modified": "2025-03-11T13:44:32Z",
+  "ns": 120,
+  "pageid": 138,
+  "sitelinks": {},
+  "title": "Item:Q78",
+  "type": "item"
+}

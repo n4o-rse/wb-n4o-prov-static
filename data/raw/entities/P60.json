@@ -1,0 +1,19 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "wikibase-item",
+  "descriptions": {},
+  "id": "P60",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "person/body relation"
+    }
+  },
+  "lastrevid": 941,
+  "modified": "2025-04-08T08:28:28Z",
+  "ns": 122,
+  "pageid": 180,
+  "title": "Property:P60",
+  "type": "property"
+}

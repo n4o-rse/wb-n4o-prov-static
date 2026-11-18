@@ -1,0 +1,31 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "wdt:P279"
+      }
+    ]
+  },
+  "claims": {},
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "X is a subclass of Y"
+    }
+  },
+  "id": "P1",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "subclass of"
+    }
+  },
+  "lastrevid": 13,
+  "modified": "2023-11-10T08:51:16Z",
+  "ns": 122,
+  "pageid": 13,
+  "title": "Property:P1",
+  "type": "property"
+}

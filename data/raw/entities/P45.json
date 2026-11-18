@@ -1,0 +1,35 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "inventory number"
+      },
+      {
+        "language": "en",
+        "value": "object number"
+      }
+    ]
+  },
+  "claims": {},
+  "datatype": "string",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "statement (object)"
+    }
+  },
+  "id": "P45",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "object identifier"
+    }
+  },
+  "lastrevid": 815,
+  "modified": "2025-03-11T15:28:14Z",
+  "ns": 122,
+  "pageid": 107,
+  "title": "Property:P45",
+  "type": "property"
+}

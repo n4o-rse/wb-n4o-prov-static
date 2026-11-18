@@ -1,0 +1,70 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Q328468"
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "Q76$2743686a-47ec-d583-8420-1c60c5b057e7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q77",
+              "numeric-id": 77
+            }
+          },
+          "hash": "58a95c5d5d7c9e72a6a124041af2fa2803d00af4",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q76$2d4f1118-48ec-283b-8e85-5e96e5eb2c76",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://www.wikidata.org/entity/Q328468"
+          },
+          "hash": "aafeb7cb375551d502e4a7e63b3224de06ffdc1f",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "place type"
+    }
+  },
+  "id": "Q76",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Nazi concentration camp"
+    }
+  },
+  "lastrevid": 609,
+  "modified": "2025-03-11T13:40:49Z",
+  "ns": 120,
+  "pageid": 134,
+  "sitelinks": {},
+  "title": "Item:Q76",
+  "type": "item"
+}

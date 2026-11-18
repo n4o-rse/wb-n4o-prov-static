@@ -1,0 +1,194 @@
+{
+  "aliases": {},
+  "claims": {
+    "P19": [
+      {
+        "id": "Q50$b8848e36-4cf7-2ca2-b8d0-e68f103b4295",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15",
+              "numeric-id": 15
+            }
+          },
+          "hash": "85a3b407acd353b10840338dc2effbbc3101a09c",
+          "property": "P19",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q50$02d0f2e7-48f0-6d37-c4d6-4ea80f89b4df",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "hash": "a32497b849d1964f21897e84ee8e80317d84992f",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50$f11d8163-41d0-c758-7509-e83f59c064eb",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6",
+              "numeric-id": 6
+            }
+          },
+          "hash": "c51230a5ab28e222eea895a3c9bc66e113953a89",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q50$0ecc892c-4950-8fd8-75eb-e3d4c1a7584b",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18",
+              "numeric-id": 18
+            }
+          },
+          "hash": "479b7153592b4c2c8bdb822c3fb553d75243f7f1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P21": [
+      {
+        "id": "Q50$4b6b71cd-492d-1bb3-8f0d-fb4cf019a482",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://ikmk.smb.museum/ndp/person/10237"
+          },
+          "hash": "89ce346177c1f75b4e79f0eebefd6dbdcb048ae1",
+          "property": "P21",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P22": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P12",
+                  "numeric-id": 12
+                }
+              },
+              "hash": "b3c13ec5fb21cd16ac74d3ce7554d666eac8fd6b",
+              "property": "P22",
+              "snaktype": "value"
+            }
+          ],
+          "P23": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q14",
+                  "numeric-id": 14
+                }
+              },
+              "hash": "6997e5a8f743bd34c7f57f8989839316facdeaff",
+              "property": "P23",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P22",
+          "P23"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P29": [
+      {
+        "id": "Q50$4402a3e1-4a7c-193e-7107-7e8288aba447",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://ikmk.smb.museum/object?lang=de&id=18260782"
+          },
+          "hash": "389b6546941aad8860ee524b06c553185034fe0c",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50$13a9bb6d-4aa6-fc2b-74b0-2ae136ab715f",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.ikmk.uni-tuebingen.de/object?id=ID2321"
+          },
+          "hash": "d5f4f87f34880989a3f856147ae2b7f7d60e060c",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Regierungsrat Müller"
+    }
+  },
+  "id": "Q50",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Müller"
+    }
+  },
+  "lastrevid": 435,
+  "modified": "2024-12-09T21:39:25Z",
+  "ns": 120,
+  "pageid": 87,
+  "sitelinks": {},
+  "title": "Item:Q50",
+  "type": "item"
+}

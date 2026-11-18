@@ -1,0 +1,156 @@
+{
+  "aliases": {},
+  "claims": {
+    "P2": [
+      {
+        "id": "Q101$62ec81cb-459f-ca15-f3dc-8ab253d57de7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33",
+              "numeric-id": 33
+            }
+          },
+          "hash": "eeb13f23b7143738f387f9e54ee143e8516775e3",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P33": [
+      {
+        "id": "Q101$9853727b-4097-53d5-6df1-d4570c74e3f8",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://muenzkatalog.hhu-hosting.de/object?id=ID6687"
+          },
+          "hash": "16997fe72a3c370a28ffb5b4bcfa7ff8acbf6396",
+          "property": "P33",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P34": [
+      {
+        "id": "Q101$66ed517f-40d0-11c6-8824-098f71b8d9c9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q39",
+              "numeric-id": 39
+            }
+          },
+          "hash": "19cd0ec595847fa01bbf5d83ac318cc6c31162f6",
+          "property": "P34",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q101$f3b0c78c-4062-f054-a274-854131cb55cb",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q96",
+              "numeric-id": 96
+            }
+          },
+          "hash": "308fcb45ba953f9c25517698992e0ba7c2451bec",
+          "property": "P34",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P45": [
+      {
+        "id": "Q101$3731119b-4c9e-85af-22b8-4bd7a79960e5",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Ls3539.26.01"
+          },
+          "hash": "b9d7d48b43deb4a10acb22d6c5a658a9cffa3e00",
+          "property": "P45",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q101$600a70d7-4b44-d5d5-acd1-ec3fc368af1d",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "ID6687"
+          },
+          "hash": "87eca2772c633642bc7cd6cf9cb0aeaa1f169517",
+          "property": "P45",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P46": [
+      {
+        "id": "Q101$ad519d36-4467-312a-1556-37393781435d",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q63",
+              "numeric-id": 63
+            }
+          },
+          "hash": "ac00635e4b38934e6e44b07e7feb4254b6352982",
+          "property": "P46",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "object"
+    }
+  },
+  "id": "Q101",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Pontos: Mithradates VI. 75/74 v. Chr. (Düsseldorf)"
+    }
+  },
+  "lastrevid": 786,
+  "modified": "2025-03-11T15:17:00Z",
+  "ns": 120,
+  "pageid": 161,
+  "sitelinks": {},
+  "title": "Item:Q101",
+  "type": "item"
+}

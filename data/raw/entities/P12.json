@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "url",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "A has an exact match B"
+    }
+  },
+  "id": "P12",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "exact match"
+    }
+  },
+  "lastrevid": 65,
+  "modified": "2023-11-10T17:36:38Z",
+  "ns": 122,
+  "pageid": 30,
+  "title": "Property:P12",
+  "type": "property"
+}

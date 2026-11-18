@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "url",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "link to a digital representation of an object"
+    }
+  },
+  "id": "P33",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "object URL"
+    }
+  },
+  "lastrevid": 281,
+  "modified": "2024-12-09T16:44:26Z",
+  "ns": 122,
+  "pageid": 70,
+  "title": "Property:P33",
+  "type": "property"
+}

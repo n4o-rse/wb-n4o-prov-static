@@ -1,0 +1,32 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Objekt war Bestandteil der Sammlung ..."
+    },
+    "en": {
+      "language": "en",
+      "value": "object was part of collection"
+    }
+  },
+  "id": "P64",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "früher in Sammlung ..."
+    },
+    "en": {
+      "language": "en",
+      "value": "former collection"
+    }
+  },
+  "lastrevid": 1023,
+  "modified": "2025-05-23T08:32:58Z",
+  "ns": 122,
+  "pageid": 189,
+  "title": "Property:P64",
+  "type": "property"
+}

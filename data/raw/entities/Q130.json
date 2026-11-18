@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "museum"
+    }
+  },
+  "id": "Q130",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Saarlandmuseum, Saarbrücken"
+    }
+  },
+  "lastrevid": 1049,
+  "modified": "2025-06-02T09:33:42Z",
+  "ns": 120,
+  "pageid": 196,
+  "sitelinks": {},
+  "title": "Item:Q130",
+  "type": "item"
+}

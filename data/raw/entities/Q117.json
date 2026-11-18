@@ -1,0 +1,63 @@
+{
+  "aliases": {},
+  "claims": {
+    "P2": [
+      {
+        "id": "Q117$2af1db75-4b6a-7185-8eba-ba4397d54ebf",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54",
+              "numeric-id": 54
+            }
+          },
+          "hash": "97328927921a3f33123ef0b5a84fb2635ebacee8",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P24": [
+      {
+        "id": "Q117$7295f0df-4e0c-2c6d-4c9f-14811678c06a",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://www.wikidata.org/entity/Q36600"
+          },
+          "hash": "052aab674736af5904793bac759deca20d9aedcf",
+          "property": "P24",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "location"
+    }
+  },
+  "id": "Q117",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Den Haag"
+    }
+  },
+  "lastrevid": 898,
+  "modified": "2025-03-11T16:20:13Z",
+  "ns": 120,
+  "pageid": 177,
+  "sitelinks": {},
+  "title": "Item:Q117",
+  "type": "item"
+}

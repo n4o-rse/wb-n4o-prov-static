@@ -1,0 +1,53 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "skos:OrderedCollection"
+      }
+    ]
+  },
+  "claims": {
+    "P1": [
+      {
+        "id": "Q4$28261432-4e11-2dd0-bec7-d267575e77f0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q5",
+              "numeric-id": 5
+            }
+          },
+          "hash": "601c8e56a2a3394f27cfcb24eb1f95a3f8d68633",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "SKOS Ordered Collection"
+    }
+  },
+  "id": "Q4",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ordered Collection"
+    }
+  },
+  "lastrevid": 20,
+  "modified": "2023-11-10T08:55:46Z",
+  "ns": 120,
+  "pageid": 4,
+  "sitelinks": {},
+  "title": "Item:Q4",
+  "type": "item"
+}

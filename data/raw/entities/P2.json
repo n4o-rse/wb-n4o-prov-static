@@ -1,0 +1,31 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "wdt:P31"
+      }
+    ]
+  },
+  "claims": {},
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "X is an instance of Y"
+    }
+  },
+  "id": "P2",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "instance of"
+    }
+  },
+  "lastrevid": 14,
+  "modified": "2023-11-10T08:51:51Z",
+  "ns": 122,
+  "pageid": 14,
+  "title": "Property:P2",
+  "type": "property"
+}

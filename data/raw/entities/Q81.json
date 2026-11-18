@@ -1,0 +1,32 @@
+{
+  "aliases": {},
+  "claims": {},
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "collection action type"
+    },
+    "en": {
+      "language": "en",
+      "value": "collection action type"
+    }
+  },
+  "id": "Q81",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Geschenk"
+    },
+    "en": {
+      "language": "en",
+      "value": "donation"
+    }
+  },
+  "lastrevid": 642,
+  "modified": "2025-03-11T13:55:20Z",
+  "ns": 120,
+  "pageid": 141,
+  "sitelinks": {},
+  "title": "Item:Q81",
+  "type": "item"
+}

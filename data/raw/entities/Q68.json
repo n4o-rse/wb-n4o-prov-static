@@ -1,0 +1,133 @@
+{
+  "aliases": {},
+  "claims": {
+    "P2": [
+      {
+        "id": "Q68$fe078303-4370-0ea3-dcde-1c15f6b00f5e",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33",
+              "numeric-id": 33
+            }
+          },
+          "hash": "eeb13f23b7143738f387f9e54ee143e8516775e3",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P33": [
+      {
+        "id": "Q68$2580a875-45e9-c8e4-2074-f6095ba9b373",
+        "mainsnak": {
+          "datatype": "url",
+          "hash": "5032cd56b0e89f81418fd797f9db37d116636614",
+          "property": "P33",
+          "snaktype": "somevalue"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P34": [
+      {
+        "id": "Q68$1850e114-42a4-30b4-1d85-bc27d461efa7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41",
+              "numeric-id": 41
+            }
+          },
+          "hash": "d479b3238e3260045e421339e6b02e42bb1c08ca",
+          "property": "P34",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q68$c38d4189-4bc3-fc7a-41c9-7d74fd164bc8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q65",
+              "numeric-id": 65
+            }
+          },
+          "hash": "de978ac6cd7bfb4236652118e16f8689940ffa90",
+          "property": "P34",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P45": [
+      {
+        "id": "Q68$e7b8d3ea-4f54-28f7-8409-2d78a81d951c",
+        "mainsnak": {
+          "datatype": "string",
+          "hash": "4b3e0b5273db85dcab972a9c0eb5c3f5fbb55816",
+          "property": "P45",
+          "snaktype": "somevalue"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P46": [
+      {
+        "id": "Q68$67a47d97-406b-aa48-7dde-fc740bed8f8d",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q63",
+              "numeric-id": 63
+            }
+          },
+          "hash": "ac00635e4b38934e6e44b07e7feb4254b6352982",
+          "property": "P46",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "object"
+    }
+  },
+  "id": "Q68",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Frühkaiserzeitlicher Sesterz mit Gegenstempel PRO und merkwürdiger Korrosion"
+    }
+  },
+  "lastrevid": 543,
+  "modified": "2025-03-11T13:09:39Z",
+  "ns": 120,
+  "pageid": 124,
+  "sitelinks": {},
+  "title": "Item:Q68",
+  "type": "item"
+}

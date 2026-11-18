@@ -1,0 +1,141 @@
+{
+  "aliases": {},
+  "claims": {
+    "P2": [
+      {
+        "id": "Q87$5781215d-4ec5-1f24-0011-458ae9507448",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33",
+              "numeric-id": 33
+            }
+          },
+          "hash": "eeb13f23b7143738f387f9e54ee143e8516775e3",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P33": [
+      {
+        "id": "Q87$50338c48-4cf6-4633-8177-29122300ffad",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://ikmk.smb.museum/object?id=18238416"
+          },
+          "hash": "3810bf3e1eb8ed126c89a3a5c7a90010563db1fd",
+          "property": "P33",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P34": [
+      {
+        "id": "Q87$0deb290c-4ab2-62b6-f29c-7377bed93bbe",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q65",
+              "numeric-id": 65
+            }
+          },
+          "hash": "de978ac6cd7bfb4236652118e16f8689940ffa90",
+          "property": "P34",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q87$5ccf0511-41db-f93f-878b-4cf7e8e4a3de",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41",
+              "numeric-id": 41
+            }
+          },
+          "hash": "d479b3238e3260045e421339e6b02e42bb1c08ca",
+          "property": "P34",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P45": [
+      {
+        "id": "Q87$1a9f3bd2-4eec-7ea5-6304-f729473b8287",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "18238416"
+          },
+          "hash": "7fdaf0a64e806b6f3de6e3a9a2cbcffd95f573f4",
+          "property": "P45",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P46": [
+      {
+        "id": "Q87$5f869b2f-4f90-a86d-cda3-e8456bc5371f",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q63",
+              "numeric-id": 63
+            }
+          },
+          "hash": "ac00635e4b38934e6e44b07e7feb4254b6352982",
+          "property": "P46",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "object"
+    }
+  },
+  "id": "Q87",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Genf: Bistum ca. 1100-1150"
+    }
+  },
+  "lastrevid": 693,
+  "modified": "2025-03-11T14:13:01Z",
+  "ns": 120,
+  "pageid": 147,
+  "sitelinks": {},
+  "title": "Item:Q87",
+  "type": "item"
+}

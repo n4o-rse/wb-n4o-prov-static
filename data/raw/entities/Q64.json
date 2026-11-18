@@ -1,0 +1,32 @@
+{
+  "aliases": {},
+  "claims": {},
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "collection action type"
+    },
+    "en": {
+      "language": "en",
+      "value": "collection action type"
+    }
+  },
+  "id": "Q64",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Ankauf"
+    },
+    "en": {
+      "language": "en",
+      "value": "purchase"
+    }
+  },
+  "lastrevid": 641,
+  "modified": "2025-03-11T13:54:47Z",
+  "ns": 120,
+  "pageid": 116,
+  "sitelinks": {},
+  "title": "Item:Q64",
+  "type": "item"
+}

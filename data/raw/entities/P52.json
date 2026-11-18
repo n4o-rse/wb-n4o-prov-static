@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "qualifier"
+    }
+  },
+  "id": "P52",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "collection involved"
+    }
+  },
+  "lastrevid": 509,
+  "modified": "2025-03-11T12:55:17Z",
+  "ns": 122,
+  "pageid": 117,
+  "title": "Property:P52",
+  "type": "property"
+}

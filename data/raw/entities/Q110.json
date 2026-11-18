@@ -1,0 +1,137 @@
+{
+  "aliases": {},
+  "claims": {
+    "P2": [
+      {
+        "id": "Q110$60d4f1a8-4185-ae7a-5e7a-d9733c9eb843",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33",
+              "numeric-id": 33
+            }
+          },
+          "hash": "eeb13f23b7143738f387f9e54ee143e8516775e3",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P33": [
+      {
+        "id": "Q110$c0bd8c07-44b4-9972-3380-deccdf218884",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://objektkatalog.gnm.de/wisski/navigate/9052/view"
+          },
+          "hash": "a91f05098d53c263364fe9fd5fd903ea5f1bfce7",
+          "property": "P33",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q110$fb79aebf-4113-2e0d-fec4-4bf20a19c9f8",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://provenienz.gnm.de/wisski/navigate/112/view"
+          },
+          "hash": "bd98f22d7f750f36eb2f63b60ce47edf1a3e2702",
+          "property": "P33",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P34": [
+      {
+        "id": "Q110$1882a6ad-4691-e9b5-ffc9-3b2b73fd5136",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109",
+              "numeric-id": 109
+            }
+          },
+          "hash": "9d62a9397b8bbea1292decba79711f15c91045e0",
+          "property": "P34",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P45": [
+      {
+        "id": "Q110$4fb178a0-4ca8-1d02-aa4c-bcd1295662df",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Gm1413"
+          },
+          "hash": "da7730b6fe392acd43fd281e88bbb1ece68c72af",
+          "property": "P45",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P46": [
+      {
+        "id": "Q110$75a262aa-49f7-d81c-cc5d-afc6291030a0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q108",
+              "numeric-id": 108
+            }
+          },
+          "hash": "8857c0e025075826e987adbbe1dcbeb87cbb7d5b",
+          "property": "P46",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "object"
+    }
+  },
+  "id": "Q110",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Brand, Johann Christian (1722-1795), Die Furt, 1769 (Gm 1413)"
+    }
+  },
+  "lastrevid": 863,
+  "modified": "2025-03-11T15:53:28Z",
+  "ns": 120,
+  "pageid": 170,
+  "sitelinks": {},
+  "title": "Item:Q110",
+  "type": "item"
+}

@@ -1,0 +1,385 @@
+{
+  "aliases": {},
+  "claims": {
+    "P15": [
+      {
+        "id": "Q121$3eaf12b1-4b49-3721-7b76-954f9a83b16b",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1945-12-31T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d84bca33d08b3a802cce8fbefa5654de1b8f2850",
+          "property": "P15",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P16": [
+      {
+        "id": "Q121$7dcaec29-4e97-9e3f-d482-426700d13806",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1893-05-11T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "67c7c669f5775a0abd93dbc4f9fd8ae1c750d299",
+          "property": "P16",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P19": [
+      {
+        "id": "Q121$5f8938c8-429a-5684-936c-d682b7cbdc4a",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15",
+              "numeric-id": 15
+            }
+          },
+          "hash": "85a3b407acd353b10840338dc2effbbc3101a09c",
+          "property": "P19",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q121$e78893e4-41cb-3c86-8e1f-97a659247348",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "hash": "a32497b849d1964f21897e84ee8e80317d84992f",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121$2980e110-420b-86f1-1593-5f72fd70ac8f",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6",
+              "numeric-id": 6
+            }
+          },
+          "hash": "c51230a5ab28e222eea895a3c9bc66e113953a89",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P21": [
+      {
+        "id": "Q121$72eb5d68-40a3-52f1-8504-0332c8b2dc65",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://blha-recherche.brandenburg.de/detail.aspx?ID=1989030"
+          },
+          "hash": "cad7423697a38129963136c199b7cfea5c0d60b9",
+          "property": "P21",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P32": [
+      {
+        "id": "Q121$305fe1da-40ff-8159-af70-12dde6c4914e",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123",
+              "numeric-id": 123
+            }
+          },
+          "hash": "5191eb6c898c0cdae7153496036320b977348b8e",
+          "property": "P32",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P43": [
+      {
+        "id": "Q121$a17ed244-4f17-b12a-2ce4-29e15228d456",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Abteilungsdirektor der Reichskreditgesellschaft"
+          },
+          "hash": "2b3c7d50d8e17375c129939938c7b04ed2320ab7",
+          "property": "P43",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P61": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "1925"
+              },
+              "hash": "4d3288529cce307369a21e6122b5424ddc6461e1",
+              "property": "P61",
+              "snaktype": "value"
+            }
+          ],
+          "P62": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "1937"
+              },
+              "hash": "021159d6d76ca77dcf5a1500b1126d0273845e7a",
+              "property": "P62",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P61",
+          "P62"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P53": [
+      {
+        "id": "Q121$3246fd83-481b-0b18-2aff-b98c58a1fd6c",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q67",
+              "numeric-id": 67
+            }
+          },
+          "hash": "7c161fde18661850ea9977e4bf48fe67dd407c00",
+          "property": "P53",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P54": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Landhausstraße 40, Berlin"
+              },
+              "hash": "db2a36c488b76520f4d146a43871cc69f271bbd9",
+              "property": "P54",
+              "snaktype": "value"
+            }
+          ],
+          "P55": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q78",
+                  "numeric-id": 78
+                }
+              },
+              "hash": "b7a707fde85a32676be551dee6edc7983219fb34",
+              "property": "P55",
+              "snaktype": "value"
+            }
+          ],
+          "P61": [
+            {
+              "datatype": "string",
+              "hash": "d8fb994c469327323339006e4115f864eb6a4dea",
+              "property": "P61",
+              "snaktype": "somevalue"
+            }
+          ],
+          "P62": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "1939"
+              },
+              "hash": "ce21c797e347f37dadf3eaefccaabc5535573f9e",
+              "property": "P62",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P54",
+          "P55",
+          "P62",
+          "P61"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121$93ff6b01-46c7-3749-18e4-6a0566463748",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124",
+              "numeric-id": 124
+            }
+          },
+          "hash": "1182943a6a4e307a43727aead5cbac1224b50ea4",
+          "property": "P53",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P61": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "August 1942"
+              },
+              "hash": "58ddc4b464c0f5aa95cd2b7cf295f8714f57cd78",
+              "property": "P61",
+              "snaktype": "value"
+            }
+          ],
+          "P62": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "07.05.1945"
+              },
+              "hash": "fac0d355ca2567eca3d49e84110674ea74c6b5ab",
+              "property": "P62",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P61",
+          "P62"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q121$fafe48ae-422d-61f7-1c92-a6a5129bf2d4",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://blha-recherche.brandenburg.de/detail.aspx?ID=1989030"
+          },
+          "hash": "384cf9b75af3d01a06093e8647b837293ea98be8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121$2075b248-4089-5ed5-7cb2-e6658e582d8d",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.bundesarchiv.de/gedenkbuch/de1069584"
+          },
+          "hash": "a1eaef70d1260eebeb6c5daea4ba705048915c2b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Rechtswissenschaftler"
+    },
+    "en": {
+      "language": "en",
+      "value": "Legal scholar"
+    }
+  },
+  "id": "Q121",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Hermann Helfft"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hermann Helfft"
+    }
+  },
+  "lastrevid": 1017,
+  "modified": "2025-05-15T10:26:07Z",
+  "ns": 120,
+  "pageid": 184,
+  "sitelinks": {},
+  "title": "Item:Q121",
+  "type": "item"
+}

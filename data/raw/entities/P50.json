@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "string",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "qualifier"
+    }
+  },
+  "id": "P50",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "action (String)"
+    }
+  },
+  "lastrevid": 501,
+  "modified": "2025-03-11T12:50:17Z",
+  "ns": 122,
+  "pageid": 114,
+  "title": "Property:P50",
+  "type": "property"
+}

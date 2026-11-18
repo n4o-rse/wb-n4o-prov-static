@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "qualifier"
+    }
+  },
+  "id": "P37",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "alignment score"
+    }
+  },
+  "lastrevid": 440,
+  "modified": "2025-03-11T09:23:02Z",
+  "ns": 122,
+  "pageid": 92,
+  "title": "Property:P37",
+  "type": "property"
+}

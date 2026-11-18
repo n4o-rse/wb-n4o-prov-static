@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "string",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "qualifier"
+    }
+  },
+  "id": "P38",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "alignment description"
+    }
+  },
+  "lastrevid": 441,
+  "modified": "2025-03-11T09:23:22Z",
+  "ns": 122,
+  "pageid": 93,
+  "title": "Property:P38",
+  "type": "property"
+}

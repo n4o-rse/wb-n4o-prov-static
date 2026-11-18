@@ -1,0 +1,1418 @@
+{
+  "aliases": {},
+  "claims": {
+    "P15": [
+      {
+        "id": "Q106$94b8c7a5-4c9d-e5d7-74e9-4e250c41b778",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1969-04-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "76b7efcdda04286a3bb8dff2ec0717298ce2e92a",
+          "property": "P15",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "0f4a19637a6f68a67c928c2b4326100c0175a7ec",
+            "snaks": {
+              "P13": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.proveana.de/de/person/lindpaintner-paul"
+                  },
+                  "hash": "6f79db9037171ee90e712e4f8fae486da2d5b576",
+                  "property": "P13",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P13"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P16": [
+      {
+        "id": "Q106$d0536d04-48de-b69c-f9c3-597d33146cd1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1883-05-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3834bbb051eb44f0f42c9905dc07937e39d48381",
+          "property": "P16",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "0f4a19637a6f68a67c928c2b4326100c0175a7ec",
+            "snaks": {
+              "P13": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.proveana.de/de/person/lindpaintner-paul"
+                  },
+                  "hash": "6f79db9037171ee90e712e4f8fae486da2d5b576",
+                  "property": "P13",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P13"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q106$e52db0de-4b60-6c4a-1acb-a8bdf8fa9074",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6",
+              "numeric-id": 6
+            }
+          },
+          "hash": "c51230a5ab28e222eea895a3c9bc66e113953a89",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q106$9821e771-47eb-ec11-35c2-48574f4bf510",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18",
+              "numeric-id": 18
+            }
+          },
+          "hash": "479b7153592b4c2c8bdb822c3fb553d75243f7f1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "0f4a19637a6f68a67c928c2b4326100c0175a7ec",
+            "snaks": {
+              "P13": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.proveana.de/de/person/lindpaintner-paul"
+                  },
+                  "hash": "6f79db9037171ee90e712e4f8fae486da2d5b576",
+                  "property": "P13",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P13"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P21": [
+      {
+        "id": "Q106$fe1425ee-49bc-c66f-3f39-9905839b730d",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.proveana.de/de/link/act00003851"
+          },
+          "hash": "5d174a72202e43937420e911ecc348010a5926be",
+          "property": "P21",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P22": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P12",
+                  "numeric-id": 12
+                }
+              },
+              "hash": "b3c13ec5fb21cd16ac74d3ce7554d666eac8fd6b",
+              "property": "P22",
+              "snaktype": "value"
+            }
+          ],
+          "P23": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q113",
+                  "numeric-id": 113
+                }
+              },
+              "hash": "810920c7438ac8917a5892be2797bea9c80b1613",
+              "property": "P23",
+              "snaktype": "value"
+            }
+          ],
+          "P37": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q56",
+                  "numeric-id": 56
+                }
+              },
+              "hash": "d3b25fb08741eebbd30bd92d906cbf364aa2716d",
+              "property": "P37",
+              "snaktype": "value"
+            }
+          ],
+          "P38": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "stated in reference URL"
+              },
+              "hash": "7ac26d4aeff516c4b9c6e75bfd385056109cbc51",
+              "property": "P38",
+              "snaktype": "value"
+            }
+          ],
+          "P40": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "primary repository"
+              },
+              "hash": "d4c0a780b387d3273972e637b7d7ea95416589ef",
+              "property": "P40",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P22",
+          "P23",
+          "P37",
+          "P38",
+          "P40"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "895fcb13743966a2d25e930256ba93944b085aae",
+            "snaks": {
+              "P13": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.proveana.de/de/link/act00003851"
+                  },
+                  "hash": "fa3c137a8ebe1883322993efb519bddb474e3192",
+                  "property": "P13",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P13"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q106$00709293-4b72-e60e-5384-06a68c1b8905",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://d-nb.info/gnd/1206345349"
+          },
+          "hash": "b9cdae1c3fa48445d690d171184cada4ac80020e",
+          "property": "P21",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P22": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P11",
+                  "numeric-id": 11
+                }
+              },
+              "hash": "9d47fdbc05cffe3c99d7fca8adab0ae69ee84266",
+              "property": "P22",
+              "snaktype": "value"
+            }
+          ],
+          "P23": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q9",
+                  "numeric-id": 9
+                }
+              },
+              "hash": "89bf65a9feeef7e41e4220e12125f90e6a5edf69",
+              "property": "P23",
+              "snaktype": "value"
+            }
+          ],
+          "P37": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q57",
+                  "numeric-id": 57
+                }
+              },
+              "hash": "fa4486114bd33a1d0b18255a721349a31c3cb98c",
+              "property": "P37",
+              "snaktype": "value"
+            }
+          ],
+          "P38": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "stated in reference URL"
+              },
+              "hash": "7ac26d4aeff516c4b9c6e75bfd385056109cbc51",
+              "property": "P38",
+              "snaktype": "value"
+            }
+          ],
+          "P40": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "secondary repository"
+              },
+              "hash": "87ba3c041d733a6053861fc320465bc21503948b",
+              "property": "P40",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P22",
+          "P23",
+          "P37",
+          "P38",
+          "P40"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "895fcb13743966a2d25e930256ba93944b085aae",
+            "snaks": {
+              "P13": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.proveana.de/de/link/act00003851"
+                  },
+                  "hash": "fa3c137a8ebe1883322993efb519bddb474e3192",
+                  "property": "P13",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P13"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q106$318d3e02-4a17-b160-b8fd-dba2559c42bf",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/entity/Q13512883"
+          },
+          "hash": "95216f1c52128b06f6ca03f2464859a32e51b771",
+          "property": "P21",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P22": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P11",
+                  "numeric-id": 11
+                }
+              },
+              "hash": "9d47fdbc05cffe3c99d7fca8adab0ae69ee84266",
+              "property": "P22",
+              "snaktype": "value"
+            }
+          ],
+          "P23": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q10",
+                  "numeric-id": 10
+                }
+              },
+              "hash": "aa6f32e8a2ba9556098985f19c843d00313e0767",
+              "property": "P23",
+              "snaktype": "value"
+            }
+          ],
+          "P37": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q57",
+                  "numeric-id": 57
+                }
+              },
+              "hash": "fa4486114bd33a1d0b18255a721349a31c3cb98c",
+              "property": "P37",
+              "snaktype": "value"
+            }
+          ],
+          "P38": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "stated in reference URL"
+              },
+              "hash": "7ac26d4aeff516c4b9c6e75bfd385056109cbc51",
+              "property": "P38",
+              "snaktype": "value"
+            }
+          ],
+          "P40": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "secondary repository"
+              },
+              "hash": "87ba3c041d733a6053861fc320465bc21503948b",
+              "property": "P40",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P22",
+          "P23",
+          "P37",
+          "P38",
+          "P40"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "895fcb13743966a2d25e930256ba93944b085aae",
+            "snaks": {
+              "P13": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.proveana.de/de/link/act00003851"
+                  },
+                  "hash": "fa3c137a8ebe1883322993efb519bddb474e3192",
+                  "property": "P13",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P13"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q106$3f7f36f8-4bff-108e-d43f-4e3f0bf5c003",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://de.wikipedia.org/wiki/Paul_Lindpaintner"
+          },
+          "hash": "6d257ed59c21cf27d22e842b7ab62322487ed1a7",
+          "property": "P21",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P22": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P11",
+                  "numeric-id": 11
+                }
+              },
+              "hash": "9d47fdbc05cffe3c99d7fca8adab0ae69ee84266",
+              "property": "P22",
+              "snaktype": "value"
+            }
+          ],
+          "P23": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q13",
+                  "numeric-id": 13
+                }
+              },
+              "hash": "3bd082224f6453cdefa24a22d1f456bd9d121d9f",
+              "property": "P23",
+              "snaktype": "value"
+            }
+          ],
+          "P37": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q57",
+                  "numeric-id": 57
+                }
+              },
+              "hash": "fa4486114bd33a1d0b18255a721349a31c3cb98c",
+              "property": "P37",
+              "snaktype": "value"
+            }
+          ],
+          "P38": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "stated in reference URL"
+              },
+              "hash": "7ac26d4aeff516c4b9c6e75bfd385056109cbc51",
+              "property": "P38",
+              "snaktype": "value"
+            }
+          ],
+          "P40": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "secondary repository"
+              },
+              "hash": "87ba3c041d733a6053861fc320465bc21503948b",
+              "property": "P40",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P22",
+          "P23",
+          "P37",
+          "P38",
+          "P40"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "895fcb13743966a2d25e930256ba93944b085aae",
+            "snaks": {
+              "P13": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.proveana.de/de/link/act00003851"
+                  },
+                  "hash": "fa3c137a8ebe1883322993efb519bddb474e3192",
+                  "property": "P13",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P13"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q106$43041f44-4ef7-621f-d0a1-388afd861866",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://provenienz.gnm.de/person/LindpaintnerPaul"
+          },
+          "hash": "808e20f1f114735e7d68e588db2badfc2129fb06",
+          "property": "P21",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P22": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P11",
+                  "numeric-id": 11
+                }
+              },
+              "hash": "9d47fdbc05cffe3c99d7fca8adab0ae69ee84266",
+              "property": "P22",
+              "snaktype": "value"
+            }
+          ],
+          "P23": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q114",
+                  "numeric-id": 114
+                }
+              },
+              "hash": "45c30df50cb8106e6512d45029b23fb9d28fa160",
+              "property": "P23",
+              "snaktype": "value"
+            }
+          ],
+          "P37": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q57",
+                  "numeric-id": 57
+                }
+              },
+              "hash": "fa4486114bd33a1d0b18255a721349a31c3cb98c",
+              "property": "P37",
+              "snaktype": "value"
+            }
+          ],
+          "P38": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "stated in reference URL"
+              },
+              "hash": "7ac26d4aeff516c4b9c6e75bfd385056109cbc51",
+              "property": "P38",
+              "snaktype": "value"
+            }
+          ],
+          "P40": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "secondary repository"
+              },
+              "hash": "87ba3c041d733a6053861fc320465bc21503948b",
+              "property": "P40",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P22",
+          "P23",
+          "P37",
+          "P38",
+          "P40"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "895fcb13743966a2d25e930256ba93944b085aae",
+            "snaks": {
+              "P13": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.proveana.de/de/link/act00003851"
+                  },
+                  "hash": "fa3c137a8ebe1883322993efb519bddb474e3192",
+                  "property": "P13",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P13"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q106$5f8778ad-4be7-8a5e-ba8a-55770a672064",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://agorha.inha.fr/ark:/54721/f3c10ea6-31f8-497b-a1f2-4a2c0ab9359a"
+          },
+          "hash": "c4c4b351c130b8560e36b9e1e66ac195e67acb87",
+          "property": "P21",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P22": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P11",
+                  "numeric-id": 11
+                }
+              },
+              "hash": "9d47fdbc05cffe3c99d7fca8adab0ae69ee84266",
+              "property": "P22",
+              "snaktype": "value"
+            }
+          ],
+          "P23": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q115",
+                  "numeric-id": 115
+                }
+              },
+              "hash": "c0a357113b3b2b323587b4a0af852fa3d7da53c8",
+              "property": "P23",
+              "snaktype": "value"
+            }
+          ],
+          "P37": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q57",
+                  "numeric-id": 57
+                }
+              },
+              "hash": "fa4486114bd33a1d0b18255a721349a31c3cb98c",
+              "property": "P37",
+              "snaktype": "value"
+            }
+          ],
+          "P38": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "stated in reference URL"
+              },
+              "hash": "7ac26d4aeff516c4b9c6e75bfd385056109cbc51",
+              "property": "P38",
+              "snaktype": "value"
+            }
+          ],
+          "P40": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "secondary repository"
+              },
+              "hash": "87ba3c041d733a6053861fc320465bc21503948b",
+              "property": "P40",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P22",
+          "P23",
+          "P37",
+          "P38",
+          "P40"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "895fcb13743966a2d25e930256ba93944b085aae",
+            "snaks": {
+              "P13": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.proveana.de/de/link/act00003851"
+                  },
+                  "hash": "fa3c137a8ebe1883322993efb519bddb474e3192",
+                  "property": "P13",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P13"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P32": [
+      {
+        "id": "Q106$670deac0-47ec-f784-0ec8-df11ca788e9c",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q107",
+              "numeric-id": 107
+            }
+          },
+          "hash": "80fedd9480e05e6bbbbd61b44b3c7a5e38f94907",
+          "property": "P32",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P48": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q18",
+                  "numeric-id": 18
+                }
+              },
+              "hash": "0042d69af26a25c75237c004afa2aacc71f44ca4",
+              "property": "P48",
+              "snaktype": "value"
+            }
+          ],
+          "P49": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 11,
+                  "time": "+1936-11-09T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "4792679fd82154c751606d295e5d47433f4f489c",
+              "property": "P49",
+              "snaktype": "value"
+            }
+          ],
+          "P50": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Germanisches Nationalmuseum, erworben durch Kauf von Paul Lindpaintner und Lindpaintner (Kunsthandlung, Antiquariat Paul Lindpaintner)"
+              },
+              "hash": "25259644c4fb1cbe48a218fbaa02a92026537db7",
+              "property": "P50",
+              "snaktype": "value"
+            }
+          ],
+          "P51": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q64",
+                  "numeric-id": 64
+                }
+              },
+              "hash": "e1d0619834e5a7ceb06ba70417f97ba0c81e7b48",
+              "property": "P51",
+              "snaktype": "value"
+            }
+          ],
+          "P52": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q109",
+                  "numeric-id": 109
+                }
+              },
+              "hash": "80da0f681bfdcfb5563a41d59041931094977982",
+              "property": "P52",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P48",
+          "P49",
+          "P50",
+          "P51",
+          "P52"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "895fcb13743966a2d25e930256ba93944b085aae",
+            "snaks": {
+              "P13": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.proveana.de/de/link/act00003851"
+                  },
+                  "hash": "fa3c137a8ebe1883322993efb519bddb474e3192",
+                  "property": "P13",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P13"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P41": [
+      {
+        "id": "Q106$5e0cf098-44ed-c39f-b2c0-453333be52ce",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Paul Lindpaintner"
+          },
+          "hash": "e2fc31bded8df546992e840db29b21e156afa57e",
+          "property": "P41",
+          "snaktype": "value"
+        },
+        "rank": "preferred",
+        "type": "statement"
+      },
+      {
+        "id": "Q106$6ec3ef04-4524-c0e0-28c2-8a64971bc149",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Otto Paul Lindpaintner"
+          },
+          "hash": "e3e43ead48e3758ba89e4dccc281b1e6f1072ab1",
+          "property": "P41",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q106$f0b1061b-459a-a865-9ced-3a9ae4eeeba5",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Otto Paul Lindpaintner d'Almeida"
+          },
+          "hash": "b9a359ca17bba1e82976f89ae116fb487533a5bc",
+          "property": "P41",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q106$f8a3a692-409c-3cb2-c401-2c4afe077750",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q112",
+              "numeric-id": 112
+            }
+          },
+          "hash": "449762d0f67a3cc142faaf0856bc9c42bceed0da",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P43": [
+      {
+        "id": "Q106$815a27a3-4120-229f-38ac-321a6b3cbede",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Kunsthändler"
+          },
+          "hash": "a1140702f4c05ae7c4884ab1d5d5c1e90e928597",
+          "property": "P43",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P53": [
+      {
+        "id": "Q106$923efa75-478d-6510-2a96-f87efecc2452",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q67",
+              "numeric-id": 67
+            }
+          },
+          "hash": "7c161fde18661850ea9977e4bf48fe67dd407c00",
+          "property": "P53",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P49": [
+            {
+              "datatype": "time",
+              "hash": "642c285bf50e4d95def8884ff181b10add441588",
+              "property": "P49",
+              "snaktype": "somevalue"
+            }
+          ],
+          "P54": [
+            {
+              "datatype": "string",
+              "hash": "e1a484e8e52d2c9493784e4b41a5fdffd6c1b4ac",
+              "property": "P54",
+              "snaktype": "somevalue"
+            }
+          ],
+          "P55": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q78",
+                  "numeric-id": 78
+                }
+              },
+              "hash": "b7a707fde85a32676be551dee6edc7983219fb34",
+              "property": "P55",
+              "snaktype": "value"
+            }
+          ],
+          "P59": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "source"
+              },
+              "hash": "c64fd6b82d7b3909d1e455893c4a31dec094f737",
+              "property": "P59",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P54",
+          "P49",
+          "P55",
+          "P59"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "895fcb13743966a2d25e930256ba93944b085aae",
+            "snaks": {
+              "P13": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.proveana.de/de/link/act00003851"
+                  },
+                  "hash": "fa3c137a8ebe1883322993efb519bddb474e3192",
+                  "property": "P13",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P13"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q106$0195e67e-4eb3-d18b-74c4-56110e3c5b81",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q67",
+              "numeric-id": 67
+            }
+          },
+          "hash": "7c161fde18661850ea9977e4bf48fe67dd407c00",
+          "property": "P53",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P49": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 9,
+                  "time": "+1930-00-00T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "9ad96b0416199f55148f780018d7cf3ad11e899f",
+              "property": "P49",
+              "snaktype": "value"
+            }
+          ],
+          "P53": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q91",
+                  "numeric-id": 91
+                }
+              },
+              "hash": "d65480737cbcdb1bbb0c4e997e95969e06a898c7",
+              "property": "P53",
+              "snaktype": "value"
+            }
+          ],
+          "P54": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Deutschland, Berlin W9, Bellevuestr. 5 (ab April 1930)"
+              },
+              "hash": "402b43a5d96de6b7f798daee8eb313916fefc18c",
+              "property": "P54",
+              "snaktype": "value"
+            }
+          ],
+          "P59": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "source"
+              },
+              "hash": "c64fd6b82d7b3909d1e455893c4a31dec094f737",
+              "property": "P59",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P54",
+          "P49",
+          "P53",
+          "P59"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "895fcb13743966a2d25e930256ba93944b085aae",
+            "snaks": {
+              "P13": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.proveana.de/de/link/act00003851"
+                  },
+                  "hash": "fa3c137a8ebe1883322993efb519bddb474e3192",
+                  "property": "P13",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P13"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q106$f12c7198-4611-6b4e-0987-7311add9dca1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117",
+              "numeric-id": 117
+            }
+          },
+          "hash": "4911285f531a6e2f6a01b4ea5834962fc307b478",
+          "property": "P53",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P49": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 9,
+                  "time": "+1924-00-00T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "15dc19d78c75236dc1c06b6cc1aa7ab2aa60f4cd",
+              "property": "P49",
+              "snaktype": "value"
+            }
+          ],
+          "P53": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q91",
+                  "numeric-id": 91
+                }
+              },
+              "hash": "d65480737cbcdb1bbb0c4e997e95969e06a898c7",
+              "property": "P53",
+              "snaktype": "value"
+            }
+          ],
+          "P54": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Den Haag, Javastraat 2(vor 1924)"
+              },
+              "hash": "bf32e3ceecadb9de168444495e42b41501897b89",
+              "property": "P54",
+              "snaktype": "value"
+            }
+          ],
+          "P59": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "source"
+              },
+              "hash": "c64fd6b82d7b3909d1e455893c4a31dec094f737",
+              "property": "P59",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P54",
+          "P49",
+          "P53",
+          "P59"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "895fcb13743966a2d25e930256ba93944b085aae",
+            "snaks": {
+              "P13": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.proveana.de/de/link/act00003851"
+                  },
+                  "hash": "fa3c137a8ebe1883322993efb519bddb474e3192",
+                  "property": "P13",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P13"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "previous Owner"
+    }
+  },
+  "id": "Q106",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Paul Lindpaintner"
+    }
+  },
+  "lastrevid": 899,
+  "modified": "2025-03-11T16:21:51Z",
+  "ns": 120,
+  "pageid": 166,
+  "sitelinks": {},
+  "title": "Item:Q106",
+  "type": "item"
+}

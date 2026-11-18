@@ -1,0 +1,63 @@
+{
+  "aliases": {},
+  "claims": {
+    "P2": [
+      {
+        "id": "Q92$645b8f7b-493d-9e07-3725-6e10b4c0a49c",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40",
+              "numeric-id": 40
+            }
+          },
+          "hash": "e98a9918775ceb5f70e8893343527199d45fd7bc",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q92$c52a6368-441a-4f05-46b9-d457b2fc5d29",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://archaeologie.uni-muenster.de"
+          },
+          "hash": "10a8a7a13d3a3a0f20d0a904d006bcaf59b96f88",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Collection"
+    }
+  },
+  "id": "Q92",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Digitales Münzkabinett der Universität Münster"
+    }
+  },
+  "lastrevid": 743,
+  "modified": "2025-03-11T15:03:10Z",
+  "ns": 120,
+  "pageid": 152,
+  "sitelinks": {},
+  "title": "Item:Q92",
+  "type": "item"
+}

@@ -1,0 +1,141 @@
+{
+  "aliases": {},
+  "claims": {
+    "P2": [
+      {
+        "id": "Q105$a19affa4-471d-3d93-c454-40bdb74ecfd4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33",
+              "numeric-id": 33
+            }
+          },
+          "hash": "eeb13f23b7143738f387f9e54ee143e8516775e3",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P33": [
+      {
+        "id": "Q105$a21e047c-4482-cdfc-3188-bd1af8fd380f",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://ikmk.smb.museum/object?id=18207067"
+          },
+          "hash": "1b7fca04cd8020ba5b12caf61da9a1c3d10038f6",
+          "property": "P33",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P34": [
+      {
+        "id": "Q105$1e012540-4d7a-b9c3-c472-a9cd1b2ae19c",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41",
+              "numeric-id": 41
+            }
+          },
+          "hash": "d479b3238e3260045e421339e6b02e42bb1c08ca",
+          "property": "P34",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q105$cc07293f-4b4a-47c1-4cc5-d7b8bf46329c",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q65",
+              "numeric-id": 65
+            }
+          },
+          "hash": "de978ac6cd7bfb4236652118e16f8689940ffa90",
+          "property": "P34",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P45": [
+      {
+        "id": "Q105$baf8b611-4261-41ca-1044-56fe81199449",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "18207067"
+          },
+          "hash": "bcc49351e57d8ca18bdaef5e926d8daab0a9ec2f",
+          "property": "P45",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P46": [
+      {
+        "id": "Q105$ead9a420-42c4-9836-f6c5-08a6db6785e0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q63",
+              "numeric-id": 63
+            }
+          },
+          "hash": "ac00635e4b38934e6e44b07e7feb4254b6352982",
+          "property": "P46",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "object"
+    }
+  },
+  "id": "Q105",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Russland: Katharina II. 1767"
+    }
+  },
+  "lastrevid": 818,
+  "modified": "2025-03-11T15:28:44Z",
+  "ns": 120,
+  "pageid": 165,
+  "sitelinks": {},
+  "title": "Item:Q105",
+  "type": "item"
+}

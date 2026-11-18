@@ -1,0 +1,63 @@
+{
+  "aliases": {},
+  "claims": {
+    "P2": [
+      {
+        "id": "Q67$18e3a628-43fe-b85f-fdb3-8bdc00f8e817",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54",
+              "numeric-id": 54
+            }
+          },
+          "hash": "97328927921a3f33123ef0b5a84fb2635ebacee8",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P24": [
+      {
+        "id": "Q67$58e1df0a-443e-db7a-abc3-64020625f6ab",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://www.wikidata.org/entity/Q64"
+          },
+          "hash": "5bc8314fca7043cb89b498e493dc9948e3a542e0",
+          "property": "P24",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "location"
+    }
+  },
+  "id": "Q67",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Berlin"
+    }
+  },
+  "lastrevid": 525,
+  "modified": "2025-03-11T13:02:35Z",
+  "ns": 120,
+  "pageid": 120,
+  "sitelinks": {},
+  "title": "Item:Q67",
+  "type": "item"
+}

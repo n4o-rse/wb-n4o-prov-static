@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "string",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "qualifier"
+    }
+  },
+  "id": "P54",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "place detail"
+    }
+  },
+  "lastrevid": 531,
+  "modified": "2025-03-11T13:05:08Z",
+  "ns": 122,
+  "pageid": 122,
+  "title": "Property:P54",
+  "type": "property"
+}

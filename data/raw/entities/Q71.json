@@ -1,0 +1,133 @@
+{
+  "aliases": {},
+  "claims": {
+    "P2": [
+      {
+        "id": "Q71$0e5adb1f-4e72-4ddf-c0fe-e000d0de4f3b",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33",
+              "numeric-id": 33
+            }
+          },
+          "hash": "eeb13f23b7143738f387f9e54ee143e8516775e3",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P33": [
+      {
+        "id": "Q71$82ce96ca-4b93-5114-bbdc-47bdfc35b654",
+        "mainsnak": {
+          "datatype": "url",
+          "hash": "5032cd56b0e89f81418fd797f9db37d116636614",
+          "property": "P33",
+          "snaktype": "somevalue"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P34": [
+      {
+        "id": "Q71$9c05f15c-4d6f-f86e-f46c-b11d13ad9b76",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41",
+              "numeric-id": 41
+            }
+          },
+          "hash": "d479b3238e3260045e421339e6b02e42bb1c08ca",
+          "property": "P34",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q71$843914db-41fb-8f2c-f59d-6a8bc87dd52f",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q65",
+              "numeric-id": 65
+            }
+          },
+          "hash": "de978ac6cd7bfb4236652118e16f8689940ffa90",
+          "property": "P34",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P45": [
+      {
+        "id": "Q71$8c273c0e-4566-37f4-d607-2fec8d2c9119",
+        "mainsnak": {
+          "datatype": "string",
+          "hash": "4b3e0b5273db85dcab972a9c0eb5c3f5fbb55816",
+          "property": "P45",
+          "snaktype": "somevalue"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P46": [
+      {
+        "id": "Q71$e70da98c-4639-1cc5-2516-105c48fe8cad",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72",
+              "numeric-id": 72
+            }
+          },
+          "hash": "e326488d2c49c8578b5d1438c497061e90c7298d",
+          "property": "P46",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "object"
+    }
+  },
+  "id": "Q71",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "eine Prägemedaille"
+    }
+  },
+  "lastrevid": 570,
+  "modified": "2025-03-11T13:22:33Z",
+  "ns": 120,
+  "pageid": 127,
+  "sitelinks": {},
+  "title": "Item:Q71",
+  "type": "item"
+}

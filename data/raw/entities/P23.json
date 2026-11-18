@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "repository the term is aligned to"
+    }
+  },
+  "id": "P23",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "alignment repository"
+    }
+  },
+  "lastrevid": 219,
+  "modified": "2024-12-09T12:07:17Z",
+  "ns": 122,
+  "pageid": 44,
+  "title": "Property:P23",
+  "type": "property"
+}

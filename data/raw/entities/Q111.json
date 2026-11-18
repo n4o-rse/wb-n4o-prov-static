@@ -1,0 +1,1027 @@
+{
+  "aliases": {},
+  "claims": {
+    "P15": [
+      {
+        "id": "Q111$226e3b49-45b6-814f-a02f-3c8b2cc78880",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1993-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "20cdf859c59af147e9db6f00d7f5887bdaf7b417",
+          "property": "P15",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P16": [
+      {
+        "id": "Q111$479e4c4b-4032-f89b-4f44-41c259223ae9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1918-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "805666102c8f52de20445fda6f377a793b43e948",
+          "property": "P16",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q111$3dd5d973-416b-e4cd-eb44-a23adac436f5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7",
+              "numeric-id": 7
+            }
+          },
+          "hash": "9c1b9f9b61faedefa272a9c8c980faba6cefe7d5",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q111$7afa4e9d-4d97-a463-7dfe-86ffb0cbd9f0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18",
+              "numeric-id": 18
+            }
+          },
+          "hash": "479b7153592b4c2c8bdb822c3fb553d75243f7f1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P21": [
+      {
+        "id": "Q111$04d0396c-441e-4831-4225-2fc96e061ad3",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.proveana.de/de/link/act10003649"
+          },
+          "hash": "7a761b9dd2c7e7e0b2769e044d357dcb219b068d",
+          "property": "P21",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P22": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P12",
+                  "numeric-id": 12
+                }
+              },
+              "hash": "b3c13ec5fb21cd16ac74d3ce7554d666eac8fd6b",
+              "property": "P22",
+              "snaktype": "value"
+            }
+          ],
+          "P23": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q113",
+                  "numeric-id": 113
+                }
+              },
+              "hash": "810920c7438ac8917a5892be2797bea9c80b1613",
+              "property": "P23",
+              "snaktype": "value"
+            }
+          ],
+          "P37": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q56",
+                  "numeric-id": 56
+                }
+              },
+              "hash": "d3b25fb08741eebbd30bd92d906cbf364aa2716d",
+              "property": "P37",
+              "snaktype": "value"
+            }
+          ],
+          "P38": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "stated in reference URL"
+              },
+              "hash": "7ac26d4aeff516c4b9c6e75bfd385056109cbc51",
+              "property": "P38",
+              "snaktype": "value"
+            }
+          ],
+          "P40": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "primary repository"
+              },
+              "hash": "d4c0a780b387d3273972e637b7d7ea95416589ef",
+              "property": "P40",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P22",
+          "P23",
+          "P37",
+          "P38",
+          "P40"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9be5f79fa7b3903b7dfef18e77d75a4aa801a547",
+            "snaks": {
+              "P13": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.proveana.de/de/link/act10003649"
+                  },
+                  "hash": "c365162666796a44fb7a728f5ec927aa8d03e79b",
+                  "property": "P13",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P13"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q111$64a3c5c4-4867-6a7f-73c6-3a8d33295f7c",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://d-nb.info/gnd/120591112X"
+          },
+          "hash": "77d761761a61601e19ad2867450587f0bff4d98e",
+          "property": "P21",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P22": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P11",
+                  "numeric-id": 11
+                }
+              },
+              "hash": "9d47fdbc05cffe3c99d7fca8adab0ae69ee84266",
+              "property": "P22",
+              "snaktype": "value"
+            }
+          ],
+          "P23": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q113",
+                  "numeric-id": 113
+                }
+              },
+              "hash": "810920c7438ac8917a5892be2797bea9c80b1613",
+              "property": "P23",
+              "snaktype": "value"
+            }
+          ],
+          "P37": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q57",
+                  "numeric-id": 57
+                }
+              },
+              "hash": "fa4486114bd33a1d0b18255a721349a31c3cb98c",
+              "property": "P37",
+              "snaktype": "value"
+            }
+          ],
+          "P38": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "stated in reference URL"
+              },
+              "hash": "7ac26d4aeff516c4b9c6e75bfd385056109cbc51",
+              "property": "P38",
+              "snaktype": "value"
+            }
+          ],
+          "P40": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "secondary repository"
+              },
+              "hash": "87ba3c041d733a6053861fc320465bc21503948b",
+              "property": "P40",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P22",
+          "P23",
+          "P37",
+          "P38",
+          "P40"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9be5f79fa7b3903b7dfef18e77d75a4aa801a547",
+            "snaks": {
+              "P13": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.proveana.de/de/link/act10003649"
+                  },
+                  "hash": "c365162666796a44fb7a728f5ec927aa8d03e79b",
+                  "property": "P13",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P13"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q111$bd615dbe-465f-8d5f-dc53-a23d70b37860",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/entity/Q51724860"
+          },
+          "hash": "b228cf7001989a8eb408a1740914e748527d8748",
+          "property": "P21",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P22": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P11",
+                  "numeric-id": 11
+                }
+              },
+              "hash": "9d47fdbc05cffe3c99d7fca8adab0ae69ee84266",
+              "property": "P22",
+              "snaktype": "value"
+            }
+          ],
+          "P23": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q10",
+                  "numeric-id": 10
+                }
+              },
+              "hash": "aa6f32e8a2ba9556098985f19c843d00313e0767",
+              "property": "P23",
+              "snaktype": "value"
+            }
+          ],
+          "P37": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q57",
+                  "numeric-id": 57
+                }
+              },
+              "hash": "fa4486114bd33a1d0b18255a721349a31c3cb98c",
+              "property": "P37",
+              "snaktype": "value"
+            }
+          ],
+          "P38": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "stated in reference URL"
+              },
+              "hash": "7ac26d4aeff516c4b9c6e75bfd385056109cbc51",
+              "property": "P38",
+              "snaktype": "value"
+            }
+          ],
+          "P40": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "secondary repository"
+              },
+              "hash": "87ba3c041d733a6053861fc320465bc21503948b",
+              "property": "P40",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P22",
+          "P23",
+          "P37",
+          "P38",
+          "P40"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9be5f79fa7b3903b7dfef18e77d75a4aa801a547",
+            "snaks": {
+              "P13": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.proveana.de/de/link/act10003649"
+                  },
+                  "hash": "c365162666796a44fb7a728f5ec927aa8d03e79b",
+                  "property": "P13",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P13"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q111$304fbe0e-440f-a157-a4d2-cf1270b02fa0",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://provenienz.gnm.de/institution/AlmasDietrichGalerieAlmasDietrich"
+          },
+          "hash": "0b39ec7f316745c70a863350d45e2469b04fb08a",
+          "property": "P21",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P22": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P11",
+                  "numeric-id": 11
+                }
+              },
+              "hash": "9d47fdbc05cffe3c99d7fca8adab0ae69ee84266",
+              "property": "P22",
+              "snaktype": "value"
+            }
+          ],
+          "P23": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q114",
+                  "numeric-id": 114
+                }
+              },
+              "hash": "45c30df50cb8106e6512d45029b23fb9d28fa160",
+              "property": "P23",
+              "snaktype": "value"
+            }
+          ],
+          "P37": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q57",
+                  "numeric-id": 57
+                }
+              },
+              "hash": "fa4486114bd33a1d0b18255a721349a31c3cb98c",
+              "property": "P37",
+              "snaktype": "value"
+            }
+          ],
+          "P38": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "stated in reference URL"
+              },
+              "hash": "7ac26d4aeff516c4b9c6e75bfd385056109cbc51",
+              "property": "P38",
+              "snaktype": "value"
+            }
+          ],
+          "P40": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "secondary repository"
+              },
+              "hash": "87ba3c041d733a6053861fc320465bc21503948b",
+              "property": "P40",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P22",
+          "P23",
+          "P37",
+          "P38",
+          "P40"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9be5f79fa7b3903b7dfef18e77d75a4aa801a547",
+            "snaks": {
+              "P13": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.proveana.de/de/link/act10003649"
+                  },
+                  "hash": "c365162666796a44fb7a728f5ec927aa8d03e79b",
+                  "property": "P13",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P13"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P32": [
+      {
+        "id": "Q111$3afb3f18-4391-03a3-701f-b09d9f3d7046",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110",
+              "numeric-id": 110
+            }
+          },
+          "hash": "d1c315b5f7ca933d0dc370199bcde1b4d5bd2165",
+          "property": "P32",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P48": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q18",
+                  "numeric-id": 18
+                }
+              },
+              "hash": "0042d69af26a25c75237c004afa2aacc71f44ca4",
+              "property": "P48",
+              "snaktype": "value"
+            }
+          ],
+          "P49": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 9,
+                  "time": "+1941-00-00T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "250e030f7ffb307c2e7847e237f97c5e505612d2",
+              "property": "P49",
+              "snaktype": "value"
+            }
+          ],
+          "P50": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Das Gemäldes (Joos van der Beke, Bildnis eines bärtigen Mannes mit Totenkopf, (ohne Jahr)), wurde laut Helene Hackelsberger im Mai 1941 über die Münchner Galerie Maria Almas für 9.000 Reichmark an das Deutsche Reich verkauft. Ankauf von Kunstwerken von der Galerie Dr. W. A. Luz für die private Kunstsammlung von Adolf Hitler. Verkauf eines Gemäldes an das Germanische Nationalmuseum Nürnberg, in dessen Bestand es sich heute noch befindet.(1941)"
+              },
+              "hash": "681b976ee8809b8b369bfe3d5bbd2cb6d43b1389",
+              "property": "P50",
+              "snaktype": "value"
+            }
+          ],
+          "P51": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q64",
+                  "numeric-id": 64
+                }
+              },
+              "hash": "e1d0619834e5a7ceb06ba70417f97ba0c81e7b48",
+              "property": "P51",
+              "snaktype": "value"
+            }
+          ],
+          "P52": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q109",
+                  "numeric-id": 109
+                }
+              },
+              "hash": "80da0f681bfdcfb5563a41d59041931094977982",
+              "property": "P52",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P48",
+          "P49",
+          "P50",
+          "P51",
+          "P52"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9be5f79fa7b3903b7dfef18e77d75a4aa801a547",
+            "snaks": {
+              "P13": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.proveana.de/de/link/act10003649"
+                  },
+                  "hash": "c365162666796a44fb7a728f5ec927aa8d03e79b",
+                  "property": "P13",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P13"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P41": [
+      {
+        "id": "Q111$73f8be7a-4d54-1d50-2411-a7e63fa4805e",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Galerie Maria Almas-Dietrich"
+          },
+          "hash": "2f1fdb586e90061e3eb3eccdb11a3c82ad508e3a",
+          "property": "P41",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q111$92040652-4302-1e59-151f-0827e7fa04b8",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Galerie Maria Dietrich"
+          },
+          "hash": "c4b6c7b32b91848bf09c44c3857f848ab1bef57a",
+          "property": "P41",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q111$9791b185-4685-d7aa-a70b-87a23255cb0d",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Galerie Almas-Dietrich"
+          },
+          "hash": "4c8ecb7a88bbb4c2e7f03f1484dd1a9dbf15ae31",
+          "property": "P41",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q111$c4b088dd-4383-17e6-4881-4b450596855b",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Galerie Almas"
+          },
+          "hash": "0a19a50b7923fa5d533fb78bf6d577483244289f",
+          "property": "P41",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q111$c82cb011-4495-1fb7-e482-851089a54790",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q112",
+              "numeric-id": 112
+            }
+          },
+          "hash": "449762d0f67a3cc142faaf0856bc9c42bceed0da",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P43": [
+      {
+        "id": "Q111$f10f30b2-44a7-edec-f2aa-e7cc73020dbe",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Kunsthandlung und Galerie gegründet von Maria Almas-Dietrich."
+          },
+          "hash": "13d2f8d9c8567dc9fa611db1e760f42428222fa8",
+          "property": "P43",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P53": [
+      {
+        "id": "Q111$aa9f4ca3-4d31-cd6c-2de6-3f90ad498096",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118",
+              "numeric-id": 118
+            }
+          },
+          "hash": "21312b3a5261d8574934184020439c31f4c170de",
+          "property": "P53",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P49": [
+            {
+              "datatype": "time",
+              "hash": "642c285bf50e4d95def8884ff181b10add441588",
+              "property": "P49",
+              "snaktype": "somevalue"
+            }
+          ],
+          "P54": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Deutschland, München, Ottostraße 9"
+              },
+              "hash": "18112fa2595e96b3b7dd4ca16e3956cc68be6f6f",
+              "property": "P54",
+              "snaktype": "value"
+            }
+          ],
+          "P55": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q91",
+                  "numeric-id": 91
+                }
+              },
+              "hash": "8e3da418026e32358c9cb304ba4809ad33ad0cb6",
+              "property": "P55",
+              "snaktype": "value"
+            }
+          ],
+          "P59": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "source"
+              },
+              "hash": "c64fd6b82d7b3909d1e455893c4a31dec094f737",
+              "property": "P59",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P54",
+          "P49",
+          "P59",
+          "P55"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9be5f79fa7b3903b7dfef18e77d75a4aa801a547",
+            "snaks": {
+              "P13": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.proveana.de/de/link/act10003649"
+                  },
+                  "hash": "c365162666796a44fb7a728f5ec927aa8d03e79b",
+                  "property": "P13",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P13"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q111$32d97e4b-43be-8841-5b2c-99d90bd9e961",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118",
+              "numeric-id": 118
+            }
+          },
+          "hash": "21312b3a5261d8574934184020439c31f4c170de",
+          "property": "P53",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P49": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 9,
+                  "time": "+1944-00-00T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "c2901201983ec5acf6da7925d76e027646be10a1",
+              "property": "P49",
+              "snaktype": "value"
+            }
+          ],
+          "P54": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Deutschland, München, Gustav-Freytag-Str. 5 (um 1944)"
+              },
+              "hash": "68f4e7c0eee1d0182813b3d20353c467e721a48f",
+              "property": "P54",
+              "snaktype": "value"
+            }
+          ],
+          "P55": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q91",
+                  "numeric-id": 91
+                }
+              },
+              "hash": "8e3da418026e32358c9cb304ba4809ad33ad0cb6",
+              "property": "P55",
+              "snaktype": "value"
+            }
+          ],
+          "P59": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "source"
+              },
+              "hash": "c64fd6b82d7b3909d1e455893c4a31dec094f737",
+              "property": "P59",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P54",
+          "P49",
+          "P59",
+          "P55"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9be5f79fa7b3903b7dfef18e77d75a4aa801a547",
+            "snaks": {
+              "P13": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.proveana.de/de/link/act10003649"
+                  },
+                  "hash": "c365162666796a44fb7a728f5ec927aa8d03e79b",
+                  "property": "P13",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P13"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "previous Owner"
+    }
+  },
+  "id": "Q111",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Galerie Maria Almas-Dietrich"
+    }
+  },
+  "lastrevid": 932,
+  "modified": "2025-03-11T17:08:31Z",
+  "ns": 120,
+  "pageid": 171,
+  "sitelinks": {},
+  "title": "Item:Q111",
+  "type": "item"
+}

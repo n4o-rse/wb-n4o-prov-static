@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "string",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "statement"
+    }
+  },
+  "id": "P41",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "name"
+    }
+  },
+  "lastrevid": 465,
+  "modified": "2025-03-11T12:05:40Z",
+  "ns": 122,
+  "pageid": 102,
+  "title": "Property:P41",
+  "type": "property"
+}

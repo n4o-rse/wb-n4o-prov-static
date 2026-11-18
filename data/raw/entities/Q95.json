@@ -1,0 +1,46 @@
+{
+  "aliases": {},
+  "claims": {
+    "P2": [
+      {
+        "id": "Q95$c8805c19-4e5e-8588-a66f-16a800c1a467",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40",
+              "numeric-id": 40
+            }
+          },
+          "hash": "e98a9918775ceb5f70e8893343527199d45fd7bc",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Collection"
+    }
+  },
+  "id": "Q95",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Münzkabinett der Goethe-Universität, Frankfurt am Main"
+    }
+  },
+  "lastrevid": 750,
+  "modified": "2025-03-11T15:05:32Z",
+  "ns": 120,
+  "pageid": 155,
+  "sitelinks": {},
+  "title": "Item:Q95",
+  "type": "item"
+}

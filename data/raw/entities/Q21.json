@@ -1,0 +1,75 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1": [
+      {
+        "id": "Q21$8f98bcda-4d55-fc03-8197-b01fea08508b",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q5",
+              "numeric-id": 5
+            }
+          },
+          "hash": "601c8e56a2a3394f27cfcb24eb1f95a3f8d68633",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q21$735bd944-4f10-beba-e616-16df87035794",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16",
+              "numeric-id": 16
+            }
+          },
+          "hash": "cf8fd75b3c9da837484305cd4865d6b728ba4d17",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Rolle"
+    },
+    "en": {
+      "language": "en",
+      "value": "role"
+    }
+  },
+  "id": "Q21",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Münzhändler"
+    },
+    "en": {
+      "language": "en",
+      "value": "Coin Dealer"
+    }
+  },
+  "lastrevid": 101,
+  "modified": "2023-11-10T18:00:26Z",
+  "ns": 120,
+  "pageid": 43,
+  "sitelinks": {},
+  "title": "Item:Q21",
+  "type": "item"
+}

@@ -1,0 +1,63 @@
+{
+  "aliases": {},
+  "claims": {
+    "P2": [
+      {
+        "id": "Q97$871253b1-4772-95e2-1d3f-493ca461eb16",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40",
+              "numeric-id": 40
+            }
+          },
+          "hash": "e98a9918775ceb5f70e8893343527199d45fd7bc",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q97$4aad5e14-4346-e221-7919-38736a8cd708",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.britishmuseum.org/collection/"
+          },
+          "hash": "e0b401f247603d2a16847dcbf13ecc5d0d1207ef",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Collection"
+    }
+  },
+  "id": "Q97",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "British Museum"
+    }
+  },
+  "lastrevid": 755,
+  "modified": "2025-03-11T15:07:45Z",
+  "ns": 120,
+  "pageid": 157,
+  "sitelinks": {},
+  "title": "Item:Q97",
+  "type": "item"
+}

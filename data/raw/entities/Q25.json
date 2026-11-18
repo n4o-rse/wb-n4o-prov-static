@@ -1,0 +1,770 @@
+{
+  "aliases": {},
+  "claims": {
+    "P19": [
+      {
+        "id": "Q25$401df0ed-4b2b-e6d0-d5f8-01f50db248bb",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15",
+              "numeric-id": 15
+            }
+          },
+          "hash": "85a3b407acd353b10840338dc2effbbc3101a09c",
+          "property": "P19",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q25$2a53a9fa-4312-85fd-8b72-d233de402326",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "hash": "a32497b849d1964f21897e84ee8e80317d84992f",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q25$e94013f9-4d24-7457-f846-a15825ebf843",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6",
+              "numeric-id": 6
+            }
+          },
+          "hash": "c51230a5ab28e222eea895a3c9bc66e113953a89",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q25$18c97431-44c8-7bc0-65fb-9e3c471e8fbc",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21",
+              "numeric-id": 21
+            }
+          },
+          "hash": "8c4b34ffa960f9cb451266a43dbea3e785cec87f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P21": [
+      {
+        "id": "Q25$4a8c5607-482d-30bc-36d3-9b5593a4c688",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://ikmk.smb.museum/ndp/person/4077"
+          },
+          "hash": "a05761d39b11f76f417c08db019ddac55de01ea8",
+          "property": "P21",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P22": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P12",
+                  "numeric-id": 12
+                }
+              },
+              "hash": "b3c13ec5fb21cd16ac74d3ce7554d666eac8fd6b",
+              "property": "P22",
+              "snaktype": "value"
+            }
+          ],
+          "P23": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q14",
+                  "numeric-id": 14
+                }
+              },
+              "hash": "6997e5a8f743bd34c7f57f8989839316facdeaff",
+              "property": "P23",
+              "snaktype": "value"
+            }
+          ],
+          "P37": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q56",
+                  "numeric-id": 56
+                }
+              },
+              "hash": "d3b25fb08741eebbd30bd92d906cbf364aa2716d",
+              "property": "P37",
+              "snaktype": "value"
+            }
+          ],
+          "P38": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "stated in reference URL"
+              },
+              "hash": "7ac26d4aeff516c4b9c6e75bfd385056109cbc51",
+              "property": "P38",
+              "snaktype": "value"
+            }
+          ],
+          "P40": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "primary repository"
+              },
+              "hash": "d4c0a780b387d3273972e637b7d7ea95416589ef",
+              "property": "P40",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P22",
+          "P23",
+          "P37",
+          "P38",
+          "P40"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9269bb34782d7227b530867478cf07b12698fb8a",
+            "snaks": {
+              "P13": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://ikmk.smb.museum/ndp/person/4077"
+                  },
+                  "hash": "761c0478b975b08f87e6d84778d8534fee10ab2f",
+                  "property": "P13",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P13"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q25$1823c669-4bb1-92c0-467b-8e3aecbcd701",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://d-nb.info/gnd/143778765"
+          },
+          "hash": "6c0ddf3ff0d54d72635f245267c0488fc46127f0",
+          "property": "P21",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P22": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P11",
+                  "numeric-id": 11
+                }
+              },
+              "hash": "9d47fdbc05cffe3c99d7fca8adab0ae69ee84266",
+              "property": "P22",
+              "snaktype": "value"
+            }
+          ],
+          "P23": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q9",
+                  "numeric-id": 9
+                }
+              },
+              "hash": "89bf65a9feeef7e41e4220e12125f90e6a5edf69",
+              "property": "P23",
+              "snaktype": "value"
+            }
+          ],
+          "P37": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q57",
+                  "numeric-id": 57
+                }
+              },
+              "hash": "fa4486114bd33a1d0b18255a721349a31c3cb98c",
+              "property": "P37",
+              "snaktype": "value"
+            }
+          ],
+          "P38": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "stated in reference URL"
+              },
+              "hash": "7ac26d4aeff516c4b9c6e75bfd385056109cbc51",
+              "property": "P38",
+              "snaktype": "value"
+            }
+          ],
+          "P40": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "secondary repository"
+              },
+              "hash": "87ba3c041d733a6053861fc320465bc21503948b",
+              "property": "P40",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P22",
+          "P23",
+          "P37",
+          "P38",
+          "P40"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9269bb34782d7227b530867478cf07b12698fb8a",
+            "snaks": {
+              "P13": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://ikmk.smb.museum/ndp/person/4077"
+                  },
+                  "hash": "761c0478b975b08f87e6d84778d8534fee10ab2f",
+                  "property": "P13",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P13"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q25$5ec78aa4-4b4e-3cfb-1677-2b4f9f754861",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://viaf.org/viaf/103209084"
+          },
+          "hash": "7f6f7904d5910e6ac2f6f506e66a585b7949baa3",
+          "property": "P21",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P22": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P12",
+                  "numeric-id": 12
+                }
+              },
+              "hash": "b3c13ec5fb21cd16ac74d3ce7554d666eac8fd6b",
+              "property": "P22",
+              "snaktype": "value"
+            }
+          ],
+          "P23": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q11",
+                  "numeric-id": 11
+                }
+              },
+              "hash": "0d11bfc51fd8167d44bf89d207eabb382da45a9f",
+              "property": "P23",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P22",
+          "P23"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9269bb34782d7227b530867478cf07b12698fb8a",
+            "snaks": {
+              "P13": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://ikmk.smb.museum/ndp/person/4077"
+                  },
+                  "hash": "761c0478b975b08f87e6d84778d8534fee10ab2f",
+                  "property": "P13",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P13"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q25$d68a4a9e-4877-64c7-9661-211710c18a4a",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://wikidata.org/entity/Q2086982"
+          },
+          "hash": "c9d0e0a7a38ec6c0d93bffe671e76b2384707150",
+          "property": "P21",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P22": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P12",
+                  "numeric-id": 12
+                }
+              },
+              "hash": "b3c13ec5fb21cd16ac74d3ce7554d666eac8fd6b",
+              "property": "P22",
+              "snaktype": "value"
+            }
+          ],
+          "P23": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q10",
+                  "numeric-id": 10
+                }
+              },
+              "hash": "aa6f32e8a2ba9556098985f19c843d00313e0767",
+              "property": "P23",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P22",
+          "P23"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9269bb34782d7227b530867478cf07b12698fb8a",
+            "snaks": {
+              "P13": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://ikmk.smb.museum/ndp/person/4077"
+                  },
+                  "hash": "761c0478b975b08f87e6d84778d8534fee10ab2f",
+                  "property": "P13",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P13"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q25$94addc5d-4cc9-c9c3-d0bf-d8da0d795265",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://de.wikipedia.org/wiki/Philipp_Lederer"
+          },
+          "hash": "24ddd4aae04ea8a5c133d1308ededecc9951be70",
+          "property": "P21",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P22": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P12",
+                  "numeric-id": 12
+                }
+              },
+              "hash": "b3c13ec5fb21cd16ac74d3ce7554d666eac8fd6b",
+              "property": "P22",
+              "snaktype": "value"
+            }
+          ],
+          "P23": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q13",
+                  "numeric-id": 13
+                }
+              },
+              "hash": "3bd082224f6453cdefa24a22d1f456bd9d121d9f",
+              "property": "P23",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P22",
+          "P23"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9269bb34782d7227b530867478cf07b12698fb8a",
+            "snaks": {
+              "P13": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://ikmk.smb.museum/ndp/person/4077"
+                  },
+                  "hash": "761c0478b975b08f87e6d84778d8534fee10ab2f",
+                  "property": "P13",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P13"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q25$e9bb685d-4806-e5f6-829e-8926e2fd8482",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.britishmuseum.org/collection/term/BIOG59166"
+          },
+          "hash": "0a5dce9db1fa4bf66fac8dac7ce8d430bb24bee5",
+          "property": "P21",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P22": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P12",
+                  "numeric-id": 12
+                }
+              },
+              "hash": "b3c13ec5fb21cd16ac74d3ce7554d666eac8fd6b",
+              "property": "P22",
+              "snaktype": "value"
+            }
+          ],
+          "P23": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q24",
+                  "numeric-id": 24
+                }
+              },
+              "hash": "6c6990a31376aca5935a6705797e181b4d3f7232",
+              "property": "P23",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P22",
+          "P23"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9269bb34782d7227b530867478cf07b12698fb8a",
+            "snaks": {
+              "P13": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://ikmk.smb.museum/ndp/person/4077"
+                  },
+                  "hash": "761c0478b975b08f87e6d84778d8534fee10ab2f",
+                  "property": "P13",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P13"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P24": [
+      {
+        "id": "Q25$d1fc40f8-4f0c-b98c-d705-2d75e2019d92",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://www.wikidata.org/entity/Q64"
+          },
+          "hash": "5bc8314fca7043cb89b498e493dc9948e3a542e0",
+          "property": "P24",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P25": [
+      {
+        "id": "Q25$614150b9-4ee8-6523-61e9-1601b27c6fed",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 52.516666666666666,
+              "longitude": 13.383333333333333,
+              "precision": 0.016666666666666666
+            }
+          },
+          "hash": "4047ec884d31f7b8ff63c5be0b911d876bfba924",
+          "property": "P25",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P29": [
+      {
+        "id": "Q25$60b3c9ee-42f0-fed5-a842-c3b26de6e40b",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://ikmk.smb.museum/object?id=18273152"
+          },
+          "hash": "96d5758ea1fa549a8c6a521e02cd18af5a921776",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q25$7e32ce3f-4c82-3114-db88-5f4dd6fe4fbc",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://ikmk.smb.museum/object?id=18267378"
+          },
+          "hash": "a83ef951e3fb9cc0a978e8bafab1bb4a2e3905cc",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q25$639f3e91-4f46-f362-0493-c42b4823857c",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://ikmk.smb.museum/object?id=18269072"
+          },
+          "hash": "f0150a5fa5db065154751e3b38f56d4b184974ac",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q25$9a6d25a0-4ab2-04cb-3046-a8fe92df6daa",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://ikmk.smb.museum/object?id=18311140"
+          },
+          "hash": "8cbd3bb1f38fad3d2f580d5e56680da612e30533",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q25$03130df2-4e0a-f7ae-136c-ddb618485dc5",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://mk-bochum.ikmk.net/object?id=ID2097"
+          },
+          "hash": "97cae369294e9e5f5757d79558a598ab8eef9cd0",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Münzhändler in Berlin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Coin Dealer in Berlin"
+    }
+  },
+  "id": "Q25",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Dr. Philipp Lederer"
+    },
+    "en": {
+      "language": "en",
+      "value": "Dr. Philipp Lederer"
+    }
+  },
+  "lastrevid": 462,
+  "modified": "2025-03-11T09:49:44Z",
+  "ns": 120,
+  "pageid": 54,
+  "sitelinks": {},
+  "title": "Item:Q25",
+  "type": "item"
+}

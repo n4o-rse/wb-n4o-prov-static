@@ -1,0 +1,23 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "url",
+  "descriptions": {},
+  "id": "P65",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Provenienzmerkmal"
+    },
+    "en": {
+      "language": "en",
+      "value": "Provenance feature"
+    }
+  },
+  "lastrevid": 1026,
+  "modified": "2025-05-23T08:34:42Z",
+  "ns": 122,
+  "pageid": 190,
+  "title": "Property:P65",
+  "type": "property"
+}

@@ -1,0 +1,605 @@
+{
+  "aliases": {},
+  "claims": {
+    "P19": [
+      {
+        "id": "Q120$6bc2bf5f-456a-77c0-9c2e-87a52ab69f8f",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15",
+              "numeric-id": 15
+            }
+          },
+          "hash": "85a3b407acd353b10840338dc2effbbc3101a09c",
+          "property": "P19",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q120$421d15f3-4d12-3252-3365-6d2a12cc1860",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "hash": "a32497b849d1964f21897e84ee8e80317d84992f",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120$6f53543e-4b00-36f4-dbe8-24f6628dd6a1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6",
+              "numeric-id": 6
+            }
+          },
+          "hash": "c51230a5ab28e222eea895a3c9bc66e113953a89",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P21": [
+      {
+        "id": "Q120$5c2a69bd-4d6e-3a5f-f919-e9efcc7a3756",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://ikmk.smb.museum/ndp/person/5634"
+          },
+          "hash": "5b8f54b24a439a74de9d23b25edc3fedc4f03077",
+          "property": "P21",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P22": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P12",
+                  "numeric-id": 12
+                }
+              },
+              "hash": "b3c13ec5fb21cd16ac74d3ce7554d666eac8fd6b",
+              "property": "P22",
+              "snaktype": "value"
+            }
+          ],
+          "P23": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q14",
+                  "numeric-id": 14
+                }
+              },
+              "hash": "6997e5a8f743bd34c7f57f8989839316facdeaff",
+              "property": "P23",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P22",
+          "P23"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120$c5cc5573-4f67-84d3-5421-371b5263ff4d",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://d-nb.info/gnd/102534020"
+          },
+          "hash": "49a4b44d4a7135e1e03cc80fbf7d5fd5b09ae10d",
+          "property": "P21",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P22": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P12",
+                  "numeric-id": 12
+                }
+              },
+              "hash": "b3c13ec5fb21cd16ac74d3ce7554d666eac8fd6b",
+              "property": "P22",
+              "snaktype": "value"
+            }
+          ],
+          "P23": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q9",
+                  "numeric-id": 9
+                }
+              },
+              "hash": "89bf65a9feeef7e41e4220e12125f90e6a5edf69",
+              "property": "P23",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P22",
+          "P23"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120$5be6a266-4097-81d7-a050-d9a15c646686",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://viaf.org/viaf/49616668"
+          },
+          "hash": "3360bf6534ac39d403ca4a9eac0c8c5f72bf150c",
+          "property": "P21",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P22": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P12",
+                  "numeric-id": 12
+                }
+              },
+              "hash": "b3c13ec5fb21cd16ac74d3ce7554d666eac8fd6b",
+              "property": "P22",
+              "snaktype": "value"
+            }
+          ],
+          "P23": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q11",
+                  "numeric-id": 11
+                }
+              },
+              "hash": "0d11bfc51fd8167d44bf89d207eabb382da45a9f",
+              "property": "P23",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P22",
+          "P23"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120$cdf53018-45de-10c6-21e2-3d77c30bf4b3",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Q1596893"
+          },
+          "hash": "2ffdf795f2c57d1a6128d91ac53234a7478fd863",
+          "property": "P21",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P22": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P12",
+                  "numeric-id": 12
+                }
+              },
+              "hash": "b3c13ec5fb21cd16ac74d3ce7554d666eac8fd6b",
+              "property": "P22",
+              "snaktype": "value"
+            }
+          ],
+          "P23": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q10",
+                  "numeric-id": 10
+                }
+              },
+              "hash": "aa6f32e8a2ba9556098985f19c843d00313e0767",
+              "property": "P23",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P22",
+          "P23"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P29": [
+      {
+        "id": "Q120$7176ea11-4888-ca94-489d-ed1cc4fa8c48",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://ikmk.smb.museum/object?id=18295238"
+          },
+          "hash": "259345f66b8e2cc295f1be3cb3515f7729bb6415",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120$892a071c-4007-179b-ac8d-3655f3d1285b",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://ikmk.smb.museum/object?id=18216118"
+          },
+          "hash": "84f050753e83058b5ca6d2340a3cd0edac780594",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120$be6ea99f-4f84-bcf9-ed6f-ffd1e484ebad",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://ikmk.smb.museum/object?id=18253011"
+          },
+          "hash": "6b640ad5cc61a81b4383478269026371b13faa60",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120$09e7bb41-46e9-1782-fb07-1f77a458f7df",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://ikmk.smb.museum/object?id=18257105"
+          },
+          "hash": "b3eef134459a3613c9995f996e0cd307bb69ce43",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120$0c037e3e-4786-d2d0-1535-0b595d2568a9",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://ikmk.smb.museum/object?id=18220754"
+          },
+          "hash": "9ba2c9d8ffea1c9e4d2a2a1f03a51161af8766a9",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120$6070166e-4d8d-37e2-8fa3-0d054c8b2a6c",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://ikmk.smb.museum/object?id=18206115"
+          },
+          "hash": "be9009414cb53bb885c5ac6d619a48825cd40f52",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120$4fc5f6c1-4dbb-392a-8f0c-d18bcc670978",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://id.smb.museum/object/837480/nackte-m%C3%A4nnliche-figur"
+          },
+          "hash": "e550c021d5b0bcb5645d78e565fdcfeedd07aba6",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120$5c7c1651-4468-7382-5132-55a463cf0cee",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://id.smb.museum/object/691604/marsb%C3%BCste-in-blumenkelch"
+          },
+          "hash": "64bbc4e397acd1f5c4ceadd34734b6acb3e0e2f1",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120$a8ed0e15-4932-3b6a-34ae-15c6217acf9f",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://id.smb.museum/object/691605/marsb%C3%BCste"
+          },
+          "hash": "d38f2ef4d29e7711967f93a37a1d603e7ea2abc1",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120$18d71e9d-4162-2ac6-fa4e-d51af6a276ed",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://id.smb.museum/object/837048/statuette-eines-nackten-sitzenden-knaben-der-von-einem-hund-angesprungen-wird"
+          },
+          "hash": "ab4dc7081e77ef85447c777a615d290fc0695b01",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120$011215e1-4e65-334e-1a33-bbf5c135a6b0",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://id.smb.museum/object/827212/zwiebelkopffibel"
+          },
+          "hash": "e6a10c6612247eca4c9dcb7f4f1bf1bd42d41beb",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120$6a5b0aef-448c-7e18-afed-632f4d012cb1",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://id.smb.museum/object/837712/anst%C3%BCckung-f%C3%BCr-eine-merkurstatuette-in-form-eines-mit-gewand-behangenen-linken-arms"
+          },
+          "hash": "2ecd43821ac901a5bf7eaedfb5944f82ab7dba34",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120$b1509ffa-47bc-e4a1-5571-aa077c69eed3",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://id.smb.museum/object/958888/plauderstunde-am-brunnen"
+          },
+          "hash": "9b76284540d18cb68c6e7142a763f1cec1135581",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120$9ed6d99a-481e-9bb4-86dc-5990077353a6",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://id.smb.museum/object/691995/fig%C3%BCrlicher-gef%C3%A4%C3%9Fhenkel-mit-statuette-des-bacchus-oder-liber-und-b%C3%BCste-der-libera"
+          },
+          "hash": "8becf759a289eeda20ae0b5916c4189094cdd179",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P32": [
+      {
+        "id": "Q120$fea712e5-44e0-8f4c-a455-6ac6117d95f1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125",
+              "numeric-id": 125
+            }
+          },
+          "hash": "914e71a8dc5cd47485c11e547ee0cb6ff3ea7e43",
+          "property": "P32",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P48": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q18",
+                  "numeric-id": 18
+                }
+              },
+              "hash": "0042d69af26a25c75237c004afa2aacc71f44ca4",
+              "property": "P48",
+              "snaktype": "value"
+            }
+          ],
+          "P61": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "1853"
+              },
+              "hash": "75a920a8ef01e69ad9c61adeaaa1fbfd8deb2de8",
+              "property": "P61",
+              "snaktype": "value"
+            }
+          ],
+          "P62": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "1854"
+              },
+              "hash": "2a89ad115bf9fa659dbdf11da6b60c15f1ab66f4",
+              "property": "P62",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P48",
+          "P61",
+          "P62"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P43": [
+      {
+        "id": "Q120$d9eaefa5-40c4-99aa-e08b-dcfdd08fd072",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Oberbürgermeister von Saarbrücken"
+          },
+          "hash": "e52dda19a36de188792098c6f72777f066cde1bf",
+          "property": "P43",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Oberbergrat"
+    },
+    "en": {
+      "language": "en",
+      "value": "Oberbergrat"
+    }
+  },
+  "id": "Q120",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Heinrich Böcking"
+    },
+    "en": {
+      "language": "en",
+      "value": "Heinrich Böcking"
+    }
+  },
+  "lastrevid": 1039,
+  "modified": "2025-06-02T08:34:02Z",
+  "ns": 120,
+  "pageid": 183,
+  "sitelinks": {},
+  "title": "Item:Q120",
+  "type": "item"
+}

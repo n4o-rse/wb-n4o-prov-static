@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "url",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "location in Wikidata"
+    }
+  },
+  "id": "P24",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "location (Wikidata)"
+    }
+  },
+  "lastrevid": 394,
+  "modified": "2024-12-09T21:22:56Z",
+  "ns": 122,
+  "pageid": 47,
+  "title": "Property:P24",
+  "type": "property"
+}

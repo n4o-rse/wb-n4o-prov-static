@@ -1,0 +1,19 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "wikibase-item",
+  "descriptions": {},
+  "id": "P30",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "relationship"
+    }
+  },
+  "lastrevid": 236,
+  "modified": "2024-12-09T12:18:26Z",
+  "ns": 122,
+  "pageid": 59,
+  "title": "Property:P30",
+  "type": "property"
+}

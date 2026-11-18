@@ -1,0 +1,31 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "wd:P582"
+      }
+    ]
+  },
+  "claims": {},
+  "datatype": "string",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "qualifier (object -> provenance entity)"
+    }
+  },
+  "id": "P62",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "end time"
+    }
+  },
+  "lastrevid": 946,
+  "modified": "2025-04-08T08:49:27Z",
+  "ns": 122,
+  "pageid": 182,
+  "title": "Property:P62",
+  "type": "property"
+}

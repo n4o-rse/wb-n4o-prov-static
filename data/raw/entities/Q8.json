@@ -1,0 +1,74 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "skos:Concept"
+      }
+    ]
+  },
+  "claims": {
+    "P1": [
+      {
+        "id": "Q8$58ff1427-43ef-fa87-6d99-d998d3ea1694",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q5",
+              "numeric-id": 5
+            }
+          },
+          "hash": "601c8e56a2a3394f27cfcb24eb1f95a3f8d68633",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q8$85096151-4912-c650-39e3-911b3e1a50ee",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "hash": "a32497b849d1964f21897e84ee8e80317d84992f",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "a person that may not exist, e.g. a Roman god"
+    }
+  },
+  "id": "Q8",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Fictive Person"
+    }
+  },
+  "lastrevid": 25,
+  "modified": "2023-11-10T08:57:01Z",
+  "ns": 120,
+  "pageid": 8,
+  "sitelinks": {},
+  "title": "Item:Q8",
+  "type": "item"
+}

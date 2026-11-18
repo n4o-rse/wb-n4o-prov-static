@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "statement"
+    }
+  },
+  "id": "P53",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "place relation"
+    }
+  },
+  "lastrevid": 930,
+  "modified": "2025-03-11T16:55:12Z",
+  "ns": 122,
+  "pageid": 121,
+  "title": "Property:P53",
+  "type": "property"
+}

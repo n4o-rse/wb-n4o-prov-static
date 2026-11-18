@@ -1,0 +1,19 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "wikibase-item",
+  "descriptions": {},
+  "id": "P63",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "creator of object"
+    }
+  },
+  "lastrevid": 1011,
+  "modified": "2025-05-15T10:14:58Z",
+  "ns": 122,
+  "pageid": 188,
+  "title": "Property:P63",
+  "type": "property"
+}

@@ -1,0 +1,659 @@
+{
+  "aliases": {},
+  "claims": {
+    "P19": [
+      {
+        "id": "Q27$df81ca51-4170-471a-6334-bc324cbbe556",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15",
+              "numeric-id": 15
+            }
+          },
+          "hash": "85a3b407acd353b10840338dc2effbbc3101a09c",
+          "property": "P19",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q27$069330d8-46f4-381d-f9c2-119204fd1b20",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "hash": "a32497b849d1964f21897e84ee8e80317d84992f",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q27$f183a79e-4659-bcde-d0c9-b1dca6002039",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6",
+              "numeric-id": 6
+            }
+          },
+          "hash": "c51230a5ab28e222eea895a3c9bc66e113953a89",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q27$5b8892fe-4840-a19a-01a2-aee2bc935acd",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18",
+              "numeric-id": 18
+            }
+          },
+          "hash": "479b7153592b4c2c8bdb822c3fb553d75243f7f1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P21": [
+      {
+        "id": "Q27$59b15669-4bd8-9b68-31be-211764cf39bb",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://ikmk.smb.museum/ndp/person/5879"
+          },
+          "hash": "2f3e291f08620826edfef42a5fced65f4c17b66b",
+          "property": "P21",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P22": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P12",
+                  "numeric-id": 12
+                }
+              },
+              "hash": "b3c13ec5fb21cd16ac74d3ce7554d666eac8fd6b",
+              "property": "P22",
+              "snaktype": "value"
+            }
+          ],
+          "P23": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q14",
+                  "numeric-id": 14
+                }
+              },
+              "hash": "6997e5a8f743bd34c7f57f8989839316facdeaff",
+              "property": "P23",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P22",
+          "P23"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q27$b9ba4d1d-4ba6-2a75-bf3d-3d18969d74e4",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://d-nb.info/gnd/101595239"
+          },
+          "hash": "a7980967668754e07161ceb4c2c9312af511eac9",
+          "property": "P21",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P22": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P12",
+                  "numeric-id": 12
+                }
+              },
+              "hash": "b3c13ec5fb21cd16ac74d3ce7554d666eac8fd6b",
+              "property": "P22",
+              "snaktype": "value"
+            }
+          ],
+          "P23": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q9",
+                  "numeric-id": 9
+                }
+              },
+              "hash": "89bf65a9feeef7e41e4220e12125f90e6a5edf69",
+              "property": "P23",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P22",
+          "P23"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q27$af4682b1-4f7d-a326-918e-bdef010ede92",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://viaf.org/viaf/74222280"
+          },
+          "hash": "54db2f2fb4a23e55977c24dcc8e326d81f8c124e",
+          "property": "P21",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P22": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P12",
+                  "numeric-id": 12
+                }
+              },
+              "hash": "b3c13ec5fb21cd16ac74d3ce7554d666eac8fd6b",
+              "property": "P22",
+              "snaktype": "value"
+            }
+          ],
+          "P23": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q11",
+                  "numeric-id": 11
+                }
+              },
+              "hash": "0d11bfc51fd8167d44bf89d207eabb382da45a9f",
+              "property": "P23",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P22",
+          "P23"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q27$47b118c1-406d-5733-ceb3-9a77e2cd1b87",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://wikidata.org/entity/Q108813204"
+          },
+          "hash": "a2b4335ef257113d550e26bd532f79c312d348c7",
+          "property": "P21",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P22": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P12",
+                  "numeric-id": 12
+                }
+              },
+              "hash": "b3c13ec5fb21cd16ac74d3ce7554d666eac8fd6b",
+              "property": "P22",
+              "snaktype": "value"
+            }
+          ],
+          "P23": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q10",
+                  "numeric-id": 10
+                }
+              },
+              "hash": "aa6f32e8a2ba9556098985f19c843d00313e0767",
+              "property": "P23",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P22",
+          "P23"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P24": [
+      {
+        "id": "Q27$f4ea2914-4e6c-ebb4-d23f-4cf2a9598ce0",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://www.wikidata.org/entity/Q1718"
+          },
+          "hash": "8427652faafcc4c4ce25dfbd6acc699954ef1ffb",
+          "property": "P24",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P25": [
+      {
+        "id": "Q27$a990833f-4cb9-4de1-aea3-92d0f4b36641",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 51.231144444444446,
+              "longitude": 6.772380555555555,
+              "precision": 2.777777777777778e-06
+            }
+          },
+          "hash": "92ddaa31e442db3cc9e982f267277a75dd404c84",
+          "property": "P25",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P29": [
+      {
+        "id": "Q27$63fa3b83-47a7-d69e-0bd1-a3bc07b381c3",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://ikmk.smb.museum/object?id=18200646"
+          },
+          "hash": "f4c3b463b08fcf60776acb17a04483d3415fdd31",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q27$7b407f50-4142-d304-d1c7-bda25b5b84af",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://muenzkatalog.hhu-hosting.de/object?id=ID459"
+          },
+          "hash": "1b1a63bc724dc19a16fb2df7b5900de6ca619a51",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q27$c3c7729d-493d-9f6c-3cad-891d279f4b92",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://muenzkatalog.hhu-hosting.de/object?id=ID455"
+          },
+          "hash": "00ad6d596e80d41c41b6b13834738643c33301d2",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q27$178b75bb-4d84-bedd-6f73-a468c349a738",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://muenzkatalog.hhu-hosting.de/object?id=ID457"
+          },
+          "hash": "d01313f1f168b037820e5f44d7e06d6c37469568",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q27$f8a8a57f-4504-3126-7c9a-d693b3c9af9b",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://muenzkatalog.hhu-hosting.de/object?id=ID454"
+          },
+          "hash": "a72af20185617e03b0e94043a2411d4e4c48a308",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q27$d71820b9-4c95-45e1-b1da-6fc067f9fc42",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://muenzkatalog.hhu-hosting.de/object?id=ID456"
+          },
+          "hash": "3aedc5091a21e443b9dcdfac96186fc91b3e28a1",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q27$89fac526-4e3d-bb1e-140e-a428d0759664",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://muenzkatalog.hhu-hosting.de/object?id=ID460"
+          },
+          "hash": "19684825f5ce1d92eee7c62971e30d29157c2f27",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q27$2049e1a8-4a41-c9f6-2bd7-1e5e9fc7b245",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://muenzkatalog.hhu-hosting.de/object?id=ID458"
+          },
+          "hash": "13b28b5f930a0e1840248a1010bc3beaea9b2503",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q27$749c96e9-4411-fb41-1b4a-b83e2df15cf9",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://muenzkatalog.hhu-hosting.de/object?id=ID453"
+          },
+          "hash": "07f56d9fcad70d356cb455864b841b017cc4a2bf",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q27$7d6472ee-4d3a-a5b0-6b19-73832f137f03",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://muenzkatalog.hhu-hosting.de/object?id=ID461"
+          },
+          "hash": "1f407370fbd718a2a81a55e5ec732b03958f312b",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P30": [
+      {
+        "id": "Q27$648f8601-425a-16e2-f07a-273bcad5f49d",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q28",
+              "numeric-id": 28
+            }
+          },
+          "hash": "6be34102814f1f6980b0d306f228cdaaf15fbbe4",
+          "property": "P30",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P31": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q32",
+                  "numeric-id": 32
+                }
+              },
+              "hash": "04b7636b9c62b2785c34dac39f4438a85e0b3e91",
+              "property": "P31",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q31",
+                  "numeric-id": 31
+                }
+              },
+              "hash": "421d2d87e440c2b7dadcefaaa3bd818fc4019949",
+              "property": "P31",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P31"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P32": [
+      {
+        "id": "Q27$72e3441b-466e-6350-cfaf-993e53c19cd4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q35",
+              "numeric-id": 35
+            }
+          },
+          "hash": "2cf598aa5a9c013dbd4483f63d08910cb4883e26",
+          "property": "P32",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P35": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q18",
+                  "numeric-id": 18
+                }
+              },
+              "hash": "10ac3096c87c3d53c0813abd1c0e863d197b4d2e",
+              "property": "P35",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P35"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q27$411ec0aa-41c6-2cb6-7b01-1b48376572a1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36",
+              "numeric-id": 36
+            }
+          },
+          "hash": "6aa957f58b259cb9a3fd2458762c397026e68152",
+          "property": "P32",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P35": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q18",
+                  "numeric-id": 18
+                }
+              },
+              "hash": "10ac3096c87c3d53c0813abd1c0e863d197b4d2e",
+              "property": "P35",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P35"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Kaufmann in Düsseldorf"
+    },
+    "en": {
+      "language": "en",
+      "value": "merchant in Düsseldorf"
+    }
+  },
+  "id": "Q27",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Dr. Reinhard Heynen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Dr. Reinhard Heynen"
+    }
+  },
+  "lastrevid": 348,
+  "modified": "2024-12-09T20:58:04Z",
+  "ns": 120,
+  "pageid": 57,
+  "sitelinks": {},
+  "title": "Item:Q27",
+  "type": "item"
+}

@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "A related B"
+    }
+  },
+  "id": "P7",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "related"
+    }
+  },
+  "lastrevid": 60,
+  "modified": "2023-11-10T17:31:09Z",
+  "ns": 122,
+  "pageid": 25,
+  "title": "Property:P7",
+  "type": "property"
+}

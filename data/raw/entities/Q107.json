@@ -1,0 +1,137 @@
+{
+  "aliases": {},
+  "claims": {
+    "P2": [
+      {
+        "id": "Q107$f422e9f2-41ff-c7e2-f766-713d0ca0fb8e",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33",
+              "numeric-id": 33
+            }
+          },
+          "hash": "eeb13f23b7143738f387f9e54ee143e8516775e3",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P33": [
+      {
+        "id": "Q107$56ee26a0-4d35-17a7-3d2e-bb3f7ea2b519",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://objektkatalog.gnm.de/wisski/navigate/9045/view"
+          },
+          "hash": "6df59b590e6911ea0f3872469c06455a8e1e9c60",
+          "property": "P33",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q107$6eda45e1-43c7-8199-2662-d64c4c0cd985",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://provenienz.gnm.de/wisski/navigate/2395/view"
+          },
+          "hash": "1ffbd8b7d199b0696b97225e921d218773e4a016",
+          "property": "P33",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P34": [
+      {
+        "id": "Q107$f6a4b289-4bfb-67e0-6694-17a0716499bf",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109",
+              "numeric-id": 109
+            }
+          },
+          "hash": "9d62a9397b8bbea1292decba79711f15c91045e0",
+          "property": "P34",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P45": [
+      {
+        "id": "Q107$96001842-4014-beb1-1533-848e2e63c238",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Gm1405"
+          },
+          "hash": "05b69c2ceb7d96b6b85f579e883b3e7254ef572b",
+          "property": "P45",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P46": [
+      {
+        "id": "Q107$f0094087-4d12-a38a-a46c-a0f5cc10a0b6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q108",
+              "numeric-id": 108
+            }
+          },
+          "hash": "8857c0e025075826e987adbbe1dcbeb87cbb7d5b",
+          "property": "P46",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "object"
+    }
+  },
+  "id": "Q107",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "König, Johann (1586-1642), Landschaft mit Waldweiher, um 1620 (Gm 1405)"
+    }
+  },
+  "lastrevid": 856,
+  "modified": "2025-03-11T15:49:45Z",
+  "ns": 120,
+  "pageid": 167,
+  "sitelinks": {},
+  "title": "Item:Q107",
+  "type": "item"
+}

@@ -1,0 +1,156 @@
+{
+  "aliases": {},
+  "claims": {
+    "P2": [
+      {
+        "id": "Q100$a5d1a11a-4d75-112e-738b-6be0125b0fc4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33",
+              "numeric-id": 33
+            }
+          },
+          "hash": "eeb13f23b7143738f387f9e54ee143e8516775e3",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P33": [
+      {
+        "id": "Q100$4037315a-45e7-9f8f-b24d-99a447e22aeb",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://www.mkfrankfurt.uni-frankfurt.de/object?id=ID972"
+          },
+          "hash": "ed8ea26329bbc6c5c46b9a97602689360842b41b",
+          "property": "P33",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P34": [
+      {
+        "id": "Q100$b6376991-410c-48e5-95cc-17c09e8004be",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q94",
+              "numeric-id": 94
+            }
+          },
+          "hash": "c999035b325b6c0bf8bc86de0c194f8cef37709a",
+          "property": "P34",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100$cc55c78f-4212-1517-ff55-f7060ac2a31c",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q95",
+              "numeric-id": 95
+            }
+          },
+          "hash": "b584ea93c55dbed4d76f686802cf81d87a3dc4a3",
+          "property": "P34",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P45": [
+      {
+        "id": "Q100$16173563-4195-a03f-e457-9350babd7433",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "ID972"
+          },
+          "hash": "73c8a54a5c3a632b0682eaed5e43d6a4fc8554a5",
+          "property": "P45",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100$dd512d2c-4d92-dd37-21ec-67a25ad49605",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "52a"
+          },
+          "hash": "50e83c858e90b080624eb887177b62e29025ad9e",
+          "property": "P45",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P46": [
+      {
+        "id": "Q100$e7aa1053-42ee-62e8-7269-53b51eb21807",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q63",
+              "numeric-id": 63
+            }
+          },
+          "hash": "ac00635e4b38934e6e44b07e7feb4254b6352982",
+          "property": "P46",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "object"
+    }
+  },
+  "id": "Q100",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Nikaia 62-58 v. Chr. (GU Frankfurt)"
+    }
+  },
+  "lastrevid": 787,
+  "modified": "2025-03-11T15:17:20Z",
+  "ns": 120,
+  "pageid": 160,
+  "sitelinks": {},
+  "title": "Item:Q100",
+  "type": "item"
+}

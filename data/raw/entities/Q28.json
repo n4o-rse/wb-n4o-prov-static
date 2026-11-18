@@ -1,0 +1,414 @@
+{
+  "aliases": {},
+  "claims": {
+    "P19": [
+      {
+        "id": "Q28$80a452ac-4967-3545-778c-df31322dbf26",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15",
+              "numeric-id": 15
+            }
+          },
+          "hash": "85a3b407acd353b10840338dc2effbbc3101a09c",
+          "property": "P19",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q28$7c0fb258-48cd-a770-32fe-097028fb156a",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "hash": "a32497b849d1964f21897e84ee8e80317d84992f",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q28$693a5a14-4ef4-ebfc-f774-f06f1bfcda02",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6",
+              "numeric-id": 6
+            }
+          },
+          "hash": "c51230a5ab28e222eea895a3c9bc66e113953a89",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q28$d16ff9df-47e9-e526-e3aa-0fa7a35ff358",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18",
+              "numeric-id": 18
+            }
+          },
+          "hash": "479b7153592b4c2c8bdb822c3fb553d75243f7f1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P21": [
+      {
+        "id": "Q28$e7c53349-4e2c-b8ac-bd15-164f4866b147",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://ikmk.smb.museum/ndp/person/7840"
+          },
+          "hash": "e06b3134e5f3e05e3a090d87e44564b28008d466",
+          "property": "P21",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P22": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P12",
+                  "numeric-id": 12
+                }
+              },
+              "hash": "b3c13ec5fb21cd16ac74d3ce7554d666eac8fd6b",
+              "property": "P22",
+              "snaktype": "value"
+            }
+          ],
+          "P23": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q14",
+                  "numeric-id": 14
+                }
+              },
+              "hash": "6997e5a8f743bd34c7f57f8989839316facdeaff",
+              "property": "P23",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P22",
+          "P23"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P24": [
+      {
+        "id": "Q28$99bf994d-4695-923b-75ff-ec1ea288b315",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://www.wikidata.org/entity/Q1718"
+          },
+          "hash": "8427652faafcc4c4ce25dfbd6acc699954ef1ffb",
+          "property": "P24",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P25": [
+      {
+        "id": "Q28$02915643-43a8-82b0-c734-c0f43ff66043",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 51.231144444444446,
+              "longitude": 6.772380555555555,
+              "precision": 2.777777777777778e-06
+            }
+          },
+          "hash": "92ddaa31e442db3cc9e982f267277a75dd404c84",
+          "property": "P25",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P29": [
+      {
+        "id": "Q28$1e3b8fac-4cd2-13fc-0cd5-fb0de6ca001b",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://muenzkatalog.hhu-hosting.de/object?id=ID459"
+          },
+          "hash": "1b1a63bc724dc19a16fb2df7b5900de6ca619a51",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q28$7b10ecb8-4e24-442d-6bd5-9a4d3ddd3094",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://muenzkatalog.hhu-hosting.de/object?id=ID455"
+          },
+          "hash": "00ad6d596e80d41c41b6b13834738643c33301d2",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q28$3604f3fa-422a-d196-af8c-c6b6ac10f6d2",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://muenzkatalog.hhu-hosting.de/object?id=ID457"
+          },
+          "hash": "d01313f1f168b037820e5f44d7e06d6c37469568",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q28$1f70a1f2-4815-af6b-a2e0-881492aaefee",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://muenzkatalog.hhu-hosting.de/object?id=ID454"
+          },
+          "hash": "a72af20185617e03b0e94043a2411d4e4c48a308",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q28$4ccd3905-4335-6cac-0be6-090fad297660",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://muenzkatalog.hhu-hosting.de/object?id=ID456"
+          },
+          "hash": "3aedc5091a21e443b9dcdfac96186fc91b3e28a1",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q28$8268c61d-4742-af5c-7e91-3b3924763829",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://muenzkatalog.hhu-hosting.de/object?id=ID460"
+          },
+          "hash": "19684825f5ce1d92eee7c62971e30d29157c2f27",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q28$98c73a30-45c6-efa5-8cd8-4093b82226c2",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://muenzkatalog.hhu-hosting.de/object?id=ID453"
+          },
+          "hash": "07f56d9fcad70d356cb455864b841b017cc4a2bf",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q28$01d815df-42a7-bcbe-ad48-d24c6adb1f2a",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://muenzkatalog.hhu-hosting.de/object?id=ID461"
+          },
+          "hash": "1f407370fbd718a2a81a55e5ec732b03958f312b",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P30": [
+      {
+        "id": "Q28$fa302fc4-4f08-73dd-7206-cf7a7919a719",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27",
+              "numeric-id": 27
+            }
+          },
+          "hash": "3bd71e1b1056e8dac2aaf5b4f29a91aae4e268f1",
+          "property": "P30",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P31": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q32",
+                  "numeric-id": 32
+                }
+              },
+              "hash": "04b7636b9c62b2785c34dac39f4438a85e0b3e91",
+              "property": "P31",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P31"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P32": [
+      {
+        "id": "Q28$851e5d09-4f64-2255-5c05-32beee6a8932",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q35",
+              "numeric-id": 35
+            }
+          },
+          "hash": "2cf598aa5a9c013dbd4483f63d08910cb4883e26",
+          "property": "P32",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q28$ee630adf-44b4-6a67-d8b6-8c5cc495a105",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36",
+              "numeric-id": 36
+            }
+          },
+          "hash": "6aa957f58b259cb9a3fd2458762c397026e68152",
+          "property": "P32",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Ehefrau und Witwe von Dr. Reinhard Heynen"
+    },
+    "en": {
+      "language": "en",
+      "value": "wife and widow of Dr. Reinhard Heynen"
+    }
+  },
+  "id": "Q28",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Emmi Heynen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Emmi Heynen"
+    }
+  },
+  "lastrevid": 286,
+  "modified": "2024-12-09T16:48:41Z",
+  "ns": 120,
+  "pageid": 58,
+  "sitelinks": {},
+  "title": "Item:Q28",
+  "type": "item"
+}

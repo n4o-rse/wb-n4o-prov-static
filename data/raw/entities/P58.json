@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "url",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "statement"
+    }
+  },
+  "id": "P58",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "place type (Wikidata)"
+    }
+  },
+  "lastrevid": 608,
+  "modified": "2025-03-11T13:40:32Z",
+  "ns": 122,
+  "pageid": 136,
+  "title": "Property:P58",
+  "type": "property"
+}

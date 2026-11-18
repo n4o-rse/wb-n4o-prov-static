@@ -1,0 +1,46 @@
+{
+  "aliases": {},
+  "claims": {
+    "P2": [
+      {
+        "id": "Q124$5fa5011a-4340-f8f5-7b51-f09f36202113",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54",
+              "numeric-id": 54
+            }
+          },
+          "hash": "97328927921a3f33123ef0b5a84fb2635ebacee8",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "location (Sammellager)"
+    }
+  },
+  "id": "Q124",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Drancy"
+    }
+  },
+  "lastrevid": 1004,
+  "modified": "2025-05-15T10:06:09Z",
+  "ns": 120,
+  "pageid": 187,
+  "sitelinks": {},
+  "title": "Item:Q124",
+  "type": "item"
+}

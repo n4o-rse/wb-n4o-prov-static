@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "url",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "A has a related match B"
+    }
+  },
+  "id": "P10",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "related match"
+    }
+  },
+  "lastrevid": 63,
+  "modified": "2023-11-10T17:35:42Z",
+  "ns": 122,
+  "pageid": 28,
+  "title": "Property:P10",
+  "type": "property"
+}

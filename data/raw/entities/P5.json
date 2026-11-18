@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "A broader B"
+    }
+  },
+  "id": "P5",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "broader"
+    }
+  },
+  "lastrevid": 58,
+  "modified": "2023-11-10T17:30:35Z",
+  "ns": 122,
+  "pageid": 23,
+  "title": "Property:P5",
+  "type": "property"
+}

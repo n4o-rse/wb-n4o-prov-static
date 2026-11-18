@@ -1,0 +1,19 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "url",
+  "descriptions": {},
+  "id": "P29",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "linked objects"
+    }
+  },
+  "lastrevid": 146,
+  "modified": "2024-04-17T08:35:13Z",
+  "ns": 122,
+  "pageid": 52,
+  "title": "Property:P29",
+  "type": "property"
+}

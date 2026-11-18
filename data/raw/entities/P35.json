@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "qualifier"
+    }
+  },
+  "id": "P35",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "has role (object)"
+    }
+  },
+  "lastrevid": 342,
+  "modified": "2024-12-09T20:55:12Z",
+  "ns": 122,
+  "pageid": 81,
+  "title": "Property:P35",
+  "type": "property"
+}

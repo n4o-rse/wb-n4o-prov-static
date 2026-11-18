@@ -1,0 +1,19 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "string",
+  "descriptions": {},
+  "id": "P27",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "label"
+    }
+  },
+  "lastrevid": 140,
+  "modified": "2024-04-17T07:32:24Z",
+  "ns": 122,
+  "pageid": 50,
+  "title": "Property:P27",
+  "type": "property"
+}

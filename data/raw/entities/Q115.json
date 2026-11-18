@@ -1,0 +1,46 @@
+{
+  "aliases": {},
+  "claims": {
+    "P2": [
+      {
+        "id": "Q115$69fbeb3a-4372-dac2-55b3-a3f303cb2786",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12",
+              "numeric-id": 12
+            }
+          },
+          "hash": "981b7d0f2083b0bf5aad4e741eb5ebb2a7fb0bec",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "repository"
+    }
+  },
+  "id": "Q115",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "AGORHA"
+    }
+  },
+  "lastrevid": 887,
+  "modified": "2025-03-11T16:08:19Z",
+  "ns": 120,
+  "pageid": 175,
+  "sitelinks": {},
+  "title": "Item:Q115",
+  "type": "item"
+}

@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "time",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "e.g. person's date of death"
+    }
+  },
+  "id": "P15",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "end of existing"
+    }
+  },
+  "lastrevid": 924,
+  "modified": "2025-03-11T16:53:30Z",
+  "ns": 122,
+  "pageid": 33,
+  "title": "Property:P15",
+  "type": "property"
+}

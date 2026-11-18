@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "url",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "statement"
+    }
+  },
+  "id": "P44",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "location"
+    }
+  },
+  "lastrevid": 478,
+  "modified": "2025-03-11T12:18:28Z",
+  "ns": 122,
+  "pageid": 105,
+  "title": "Property:P44",
+  "type": "property"
+}

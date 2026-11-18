@@ -1,0 +1,278 @@
+{
+  "aliases": {},
+  "claims": {
+    "P19": [
+      {
+        "id": "Q48$24355fca-4bb9-9e69-fb18-bfde0e72e2a2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15",
+              "numeric-id": 15
+            }
+          },
+          "hash": "85a3b407acd353b10840338dc2effbbc3101a09c",
+          "property": "P19",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q48$78ea52d8-4696-ed86-9f09-bb4136ee6903",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "hash": "a32497b849d1964f21897e84ee8e80317d84992f",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q48$4ec91cce-47db-4240-8ff4-6f2bfd8db9d7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6",
+              "numeric-id": 6
+            }
+          },
+          "hash": "c51230a5ab28e222eea895a3c9bc66e113953a89",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q48$cb5db5b2-4dc1-3313-2248-7637b8ebdec0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18",
+              "numeric-id": 18
+            }
+          },
+          "hash": "479b7153592b4c2c8bdb822c3fb553d75243f7f1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P21": [
+      {
+        "id": "Q48$abc9a0c2-4296-f7b9-457e-f397cfe55339",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://ikmk.smb.museum/ndp/person/6241"
+          },
+          "hash": "c841668a284e1d89179a0fc1eae022c29ac3747c",
+          "property": "P21",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P22": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P12",
+                  "numeric-id": 12
+                }
+              },
+              "hash": "b3c13ec5fb21cd16ac74d3ce7554d666eac8fd6b",
+              "property": "P22",
+              "snaktype": "value"
+            }
+          ],
+          "P23": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q14",
+                  "numeric-id": 14
+                }
+              },
+              "hash": "6997e5a8f743bd34c7f57f8989839316facdeaff",
+              "property": "P23",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P22",
+          "P23"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P24": [
+      {
+        "id": "Q48$32e2a900-48b9-7eb1-f44a-883538478a52",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://www.wikidata.org/entity/Q35997"
+          },
+          "hash": "5bd4c9b72b5a20659a763e91d198b99c0208fdd0",
+          "property": "P24",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P36": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Royal Prussian consul general Spiegelthal in Smyrna"
+              },
+              "hash": "f083ea88b0944c38dbc4f48f458405f1358b4613",
+              "property": "P36",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P36"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P25": [
+      {
+        "id": "Q48$e5466441-4b88-48c8-5e62-a78a5567a8f9",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 38.4,
+              "longitude": 27.166666666666668,
+              "precision": 0.016666666666666666
+            }
+          },
+          "hash": "372825b0a1bc2ce01e69bb5964ed5a4894e547dd",
+          "property": "P25",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P29": [
+      {
+        "id": "Q48$2cd2f443-46b8-e7a9-0c25-de1a670bb596",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://ikmk.smb.museum/object?lang=de&id=18269714"
+          },
+          "hash": "2fc92ef4ecf66d265c553b65f7a7e7b24568e356",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P30": [
+      {
+        "id": "Q48$b72018f6-4727-1e54-4e38-46c6459026d7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49",
+              "numeric-id": 49
+            }
+          },
+          "hash": "a6aff3b667825716468f212aa338f016b84f3def",
+          "property": "P30",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P31": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q37",
+                  "numeric-id": 37
+                }
+              },
+              "hash": "35aee2bc531d200bfec07757e2e57728d7169125",
+              "property": "P31",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P31"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Royal Prussian consul general Spiegelthal in Smyrna from 1851 to 1859"
+    }
+  },
+  "id": "Q48",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ludwig Peter Spiegelthal"
+    }
+  },
+  "lastrevid": 396,
+  "modified": "2024-12-09T21:24:41Z",
+  "ns": 120,
+  "pageid": 85,
+  "sitelinks": {},
+  "title": "Item:Q48",
+  "type": "item"
+}

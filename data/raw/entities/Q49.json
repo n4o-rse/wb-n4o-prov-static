@@ -1,0 +1,285 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fredrik W. Spiegelthal"
+      }
+    ]
+  },
+  "claims": {
+    "P19": [
+      {
+        "id": "Q49$1ca42568-4f0e-615e-c099-723caade8ff8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15",
+              "numeric-id": 15
+            }
+          },
+          "hash": "85a3b407acd353b10840338dc2effbbc3101a09c",
+          "property": "P19",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q49$36d68536-47c1-fcfc-26d6-7d10dbd033b2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "hash": "a32497b849d1964f21897e84ee8e80317d84992f",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q49$d999ef44-48da-2bd2-a55b-71a65e1f17a9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6",
+              "numeric-id": 6
+            }
+          },
+          "hash": "c51230a5ab28e222eea895a3c9bc66e113953a89",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q49$db79b98c-40c4-edcf-6609-ba7431875322",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18",
+              "numeric-id": 18
+            }
+          },
+          "hash": "479b7153592b4c2c8bdb822c3fb553d75243f7f1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P21": [
+      {
+        "id": "Q49$8a37d3cf-4861-73e2-decd-9db8117ef5e4",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://ikmk.smb.museum/ndp/person/9505"
+          },
+          "hash": "3944fd1f97f8dfe58d7ffa857442de9473d82b3e",
+          "property": "P21",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P22": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P12",
+                  "numeric-id": 12
+                }
+              },
+              "hash": "b3c13ec5fb21cd16ac74d3ce7554d666eac8fd6b",
+              "property": "P22",
+              "snaktype": "value"
+            }
+          ],
+          "P23": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q14",
+                  "numeric-id": 14
+                }
+              },
+              "hash": "6997e5a8f743bd34c7f57f8989839316facdeaff",
+              "property": "P23",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P22",
+          "P23"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P24": [
+      {
+        "id": "Q49$c54b6880-4a83-6473-d1b8-5d8dc493d4e4",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://www.wikidata.org/entity/Q35997"
+          },
+          "hash": "5bd4c9b72b5a20659a763e91d198b99c0208fdd0",
+          "property": "P24",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P36": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Royal Swedish consul in Smyrna"
+              },
+              "hash": "c87e9f6da81767eafc21ff9f0e034a3f310c2270",
+              "property": "P36",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P36"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P25": [
+      {
+        "id": "Q49$7e98f006-4945-699f-4efb-a972da262d30",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 38.4,
+              "longitude": 27.166666666666668,
+              "precision": 0.016666666666666666
+            }
+          },
+          "hash": "372825b0a1bc2ce01e69bb5964ed5a4894e547dd",
+          "property": "P25",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P29": [
+      {
+        "id": "Q49$18dfd729-4488-b7c8-0deb-fb68e068347b",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://ikmk.smb.museum/object?lang=de&id=18270720"
+          },
+          "hash": "142700b13081606eb089b60210ed934e6ab7eaa3",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P30": [
+      {
+        "id": "Q49$63bc3ec7-4f76-9bdc-c0c3-89df084877e0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q48",
+              "numeric-id": 48
+            }
+          },
+          "hash": "fff0a3f1d7ddee1923ac4e89430ddd9f57b05169",
+          "property": "P30",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P31": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q37",
+                  "numeric-id": 37
+                }
+              },
+              "hash": "35aee2bc531d200bfec07757e2e57728d7169125",
+              "property": "P31",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P31"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Royal Swedish consul in Smyrna"
+    }
+  },
+  "id": "Q49",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Friedrich Wilhelm Spiegelthal"
+    }
+  },
+  "lastrevid": 395,
+  "modified": "2024-12-09T21:24:17Z",
+  "ns": 120,
+  "pageid": 86,
+  "sitelinks": {},
+  "title": "Item:Q49",
+  "type": "item"
+}

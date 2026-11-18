@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "statement (object)"
+    }
+  },
+  "id": "P46",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "object type"
+    }
+  },
+  "lastrevid": 486,
+  "modified": "2025-03-11T12:40:09Z",
+  "ns": 122,
+  "pageid": 108,
+  "title": "Property:P46",
+  "type": "property"
+}

@@ -1,0 +1,63 @@
+{
+  "aliases": {},
+  "claims": {
+    "P2": [
+      {
+        "id": "Q94$38507591-4f87-e6a0-f945-c7637c0f6f01",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40",
+              "numeric-id": 40
+            }
+          },
+          "hash": "e98a9918775ceb5f70e8893343527199d45fd7bc",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q94$ec4e8385-4f5d-75ac-b0a2-efa0afb14e97",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.mkfrankfurt.uni-frankfurt.de/"
+          },
+          "hash": "0324e0c017073f2e560488c26fdefdaf4fc9cdb2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Collection"
+    }
+  },
+  "id": "Q94",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Das Digitale Münzkabinett der Goethe-Universität, Frankfurt am Main"
+    }
+  },
+  "lastrevid": 748,
+  "modified": "2025-03-11T15:05:06Z",
+  "ns": 120,
+  "pageid": 154,
+  "sitelinks": {},
+  "title": "Item:Q94",
+  "type": "item"
+}

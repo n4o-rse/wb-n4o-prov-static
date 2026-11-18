@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "string",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "statement"
+    }
+  },
+  "id": "P56",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "biography (String)"
+    }
+  },
+  "lastrevid": 581,
+  "modified": "2025-03-11T13:29:15Z",
+  "ns": 122,
+  "pageid": 130,
+  "title": "Property:P56",
+  "type": "property"
+}

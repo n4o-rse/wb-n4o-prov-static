@@ -1,0 +1,67 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1": [
+      {
+        "id": "Q9$ebb07799-4b8b-47d0-ccd5-3d3b9d4231de",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q5",
+              "numeric-id": 5
+            }
+          },
+          "hash": "601c8e56a2a3394f27cfcb24eb1f95a3f8d68633",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q9$ad1faf28-4c8a-c2ce-018d-97bf4315ddd9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12",
+              "numeric-id": 12
+            }
+          },
+          "hash": "981b7d0f2083b0bf5aad4e741eb5ebb2a7fb0bec",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Gemeinsame Normdatei"
+    }
+  },
+  "id": "Q9",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "GND"
+    }
+  },
+  "lastrevid": 27,
+  "modified": "2023-11-10T08:57:25Z",
+  "ns": 120,
+  "pageid": 9,
+  "sitelinks": {},
+  "title": "Item:Q9",
+  "type": "item"
+}

@@ -1,0 +1,19 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "monolingualtext",
+  "descriptions": {},
+  "id": "P28",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "label mono"
+    }
+  },
+  "lastrevid": 142,
+  "modified": "2024-04-17T07:33:23Z",
+  "ns": 122,
+  "pageid": 51,
+  "title": "Property:P28",
+  "type": "property"
+}

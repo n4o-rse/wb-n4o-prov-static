@@ -1,0 +1,96 @@
+{
+  "aliases": {},
+  "claims": {
+    "P2": [
+      {
+        "id": "Q123$06e782e7-4c22-4447-7531-1b618d2aa972",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33",
+              "numeric-id": 33
+            }
+          },
+          "hash": "eeb13f23b7143738f387f9e54ee143e8516775e3",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P34": [
+      {
+        "id": "Q123$e4b1527d-4abf-5643-2e7c-be9bbfbd7352",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121",
+              "numeric-id": 121
+            }
+          },
+          "hash": "77bd4f21799bfe12e598aa952cc4354e9ad084e9",
+          "property": "P34",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P46": [
+      {
+        "id": "Q123$3f536613-4cc3-7020-fab1-82eb99f5cfa4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q108",
+              "numeric-id": 108
+            }
+          },
+          "hash": "8857c0e025075826e987adbbe1dcbeb87cbb7d5b",
+          "property": "P46",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "object, Gemälde"
+    },
+    "en": {
+      "language": "en",
+      "value": "object, painting"
+    }
+  },
+  "id": "Q123",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Lanschaft"
+    },
+    "en": {
+      "language": "en",
+      "value": "landscape"
+    }
+  },
+  "lastrevid": 1016,
+  "modified": "2025-05-15T10:23:01Z",
+  "ns": 120,
+  "pageid": 186,
+  "sitelinks": {},
+  "title": "Item:Q123",
+  "type": "item"
+}

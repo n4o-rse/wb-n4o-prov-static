@@ -1,0 +1,75 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1": [
+      {
+        "id": "Q22$66883e74-46df-cbc0-2014-278e4f3409d6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q5",
+              "numeric-id": 5
+            }
+          },
+          "hash": "601c8e56a2a3394f27cfcb24eb1f95a3f8d68633",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q22$d83b8e35-437f-646e-2a04-119a2f935957",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "hash": "6511c2931be27bcac018d16006b07c7c2e704c57",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Thesaurus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Thesaurus"
+    }
+  },
+  "id": "Q22",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Körperschaften-Gazetteer"
+    },
+    "en": {
+      "language": "en",
+      "value": "Body-Gazetteer"
+    }
+  },
+  "lastrevid": 120,
+  "modified": "2023-11-10T18:06:47Z",
+  "ns": 120,
+  "pageid": 45,
+  "sitelinks": {},
+  "title": "Item:Q22",
+  "type": "item"
+}

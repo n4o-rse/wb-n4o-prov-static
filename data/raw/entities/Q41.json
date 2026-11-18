@@ -1,0 +1,63 @@
+{
+  "aliases": {},
+  "claims": {
+    "P2": [
+      {
+        "id": "Q41$53b4be4f-4292-cf07-f5e7-7170928ed6ea",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40",
+              "numeric-id": 40
+            }
+          },
+          "hash": "e98a9918775ceb5f70e8893343527199d45fd7bc",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q41$360cc11e-4eea-e528-4f57-e5417411f77d",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://ikmk.smb.museum/"
+          },
+          "hash": "8b72d048880ba858b5fca5d78dca79251f13b712",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Collection"
+    }
+  },
+  "id": "Q41",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Interaktiver Katalog des Münzkabinetts Berlin"
+    }
+  },
+  "lastrevid": 493,
+  "modified": "2025-03-11T12:43:41Z",
+  "ns": 120,
+  "pageid": 76,
+  "sitelinks": {},
+  "title": "Item:Q41",
+  "type": "item"
+}

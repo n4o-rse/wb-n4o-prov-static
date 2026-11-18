@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "qualifier"
+    }
+  },
+  "id": "P31",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "relationship type"
+    }
+  },
+  "lastrevid": 345,
+  "modified": "2024-12-09T20:56:10Z",
+  "ns": 122,
+  "pageid": 60,
+  "title": "Property:P31",
+  "type": "property"
+}

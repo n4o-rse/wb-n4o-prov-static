@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "url",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "A has a narrow match B"
+    }
+  },
+  "id": "P9",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "narrow match"
+    }
+  },
+  "lastrevid": 62,
+  "modified": "2023-11-10T17:35:11Z",
+  "ns": 122,
+  "pageid": 27,
+  "title": "Property:P9",
+  "type": "property"
+}

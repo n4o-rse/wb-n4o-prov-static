@@ -1,0 +1,31 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "coordinate location"
+      }
+    ]
+  },
+  "claims": {},
+  "datatype": "globe-coordinate",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "geocoordinates of the subject. For Earth, please note that only WGS84 coordinating system is supported at the moment"
+    }
+  },
+  "id": "P25",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "representative point"
+    }
+  },
+  "lastrevid": 426,
+  "modified": "2024-12-09T21:35:50Z",
+  "ns": 122,
+  "pageid": 48,
+  "title": "Property:P25",
+  "type": "property"
+}

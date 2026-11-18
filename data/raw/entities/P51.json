@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "qualifier (object)"
+    }
+  },
+  "id": "P51",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "collection role"
+    }
+  },
+  "lastrevid": 504,
+  "modified": "2025-03-11T12:52:07Z",
+  "ns": 122,
+  "pageid": 115,
+  "title": "Property:P51",
+  "type": "property"
+}

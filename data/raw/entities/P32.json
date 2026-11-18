@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "statement"
+    }
+  },
+  "id": "P32",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "object relation"
+    }
+  },
+  "lastrevid": 495,
+  "modified": "2025-03-11T12:44:44Z",
+  "ns": 122,
+  "pageid": 69,
+  "title": "Property:P32",
+  "type": "property"
+}

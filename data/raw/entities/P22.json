@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "wikibase-property",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "semantic alignment type"
+    }
+  },
+  "id": "P22",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "alignment type"
+    }
+  },
+  "lastrevid": 218,
+  "modified": "2024-12-09T12:07:11Z",
+  "ns": 122,
+  "pageid": 41,
+  "title": "Property:P22",
+  "type": "property"
+}

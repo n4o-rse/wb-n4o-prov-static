@@ -1,0 +1,46 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1": [
+      {
+        "id": "Q12$5005f9cb-478e-43b7-8f0f-eb0781718d53",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q5",
+              "numeric-id": 5
+            }
+          },
+          "hash": "601c8e56a2a3394f27cfcb24eb1f95a3f8d68633",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "external repository that includes gazetteer resources"
+    }
+  },
+  "id": "Q12",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Repository"
+    }
+  },
+  "lastrevid": 32,
+  "modified": "2023-11-10T08:58:31Z",
+  "ns": 120,
+  "pageid": 12,
+  "sitelinks": {},
+  "title": "Item:Q12",
+  "type": "item"
+}

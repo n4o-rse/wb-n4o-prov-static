@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "url",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "A has a close match B"
+    }
+  },
+  "id": "P11",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "close match"
+    }
+  },
+  "lastrevid": 64,
+  "modified": "2023-11-10T17:36:04Z",
+  "ns": 122,
+  "pageid": 29,
+  "title": "Property:P11",
+  "type": "property"
+}

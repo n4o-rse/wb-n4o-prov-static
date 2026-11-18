@@ -1,0 +1,92 @@
+{
+  "aliases": {},
+  "claims": {
+    "P2": [
+      {
+        "id": "Q35$dbb8b462-4e18-09eb-884f-cfab69595731",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33",
+              "numeric-id": 33
+            }
+          },
+          "hash": "eeb13f23b7143738f387f9e54ee143e8516775e3",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P33": [
+      {
+        "id": "Q35$511eeb5c-427a-eb72-76b0-68602357d973",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://muenzkatalog.hhu-hosting.de/object?id=ID453"
+          },
+          "hash": "6133e2d6a10bd42c747688b74f8f734dc2545920",
+          "property": "P33",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P34": [
+      {
+        "id": "Q35$a89593dd-427c-95e9-df27-8a3ee7dd6086",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q39",
+              "numeric-id": 39
+            }
+          },
+          "hash": "19cd0ec595847fa01bbf5d83ac318cc6c31162f6",
+          "property": "P34",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Das Digitale Münzkabinett der Heinrich-Heine-Universität Düsseldorf ID453"
+    },
+    "en": {
+      "language": "en",
+      "value": "Das Digitale Münzkabinett der Heinrich-Heine-Universität Düsseldorf ID453"
+    }
+  },
+  "id": "Q35",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Röm. Republik: Aes grave, Urbane Libralserie 343-269 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "Röm. Republik: Aes grave, Urbane Libralserie 343-269 v. Chr."
+    }
+  },
+  "lastrevid": 293,
+  "modified": "2024-12-09T17:16:58Z",
+  "ns": 120,
+  "pageid": 67,
+  "sitelinks": {},
+  "title": "Item:Q35",
+  "type": "item"
+}

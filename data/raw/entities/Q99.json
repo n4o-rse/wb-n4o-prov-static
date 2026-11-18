@@ -1,0 +1,156 @@
+{
+  "aliases": {},
+  "claims": {
+    "P2": [
+      {
+        "id": "Q99$4f5d481d-4828-6d2f-1839-c323577e80ba",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33",
+              "numeric-id": 33
+            }
+          },
+          "hash": "eeb13f23b7143738f387f9e54ee143e8516775e3",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P33": [
+      {
+        "id": "Q99$954c0ca4-46ea-fe3e-1588-fdcef3252f9d",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://archaeologie.uni-muenster.de/ikmk/object?id=ID975"
+          },
+          "hash": "e93d62fc0e55c9d8846e66e634dc42b9612d9a89",
+          "property": "P33",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P34": [
+      {
+        "id": "Q99$85c7c330-4271-24b8-c93c-54fb405abf5e",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q92",
+              "numeric-id": 92
+            }
+          },
+          "hash": "90146a28d14919000d03196aff5240d315119025",
+          "property": "P34",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99$80bbbf6d-48c6-48e9-805d-6b3321a91847",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q93",
+              "numeric-id": 93
+            }
+          },
+          "hash": "1190a08d6b4cd8ae3e93ef467e31e496e4c9b2d2",
+          "property": "P34",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P45": [
+      {
+        "id": "Q99$7c360996-416d-1701-f9aa-6bd6c3488372",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "ID975"
+          },
+          "hash": "0dbdae8ae2ce18bf8720fe173490a8e8efd4f67d",
+          "property": "P45",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99$c58a2d4b-4f75-c98e-0829-56f7c66a5bd1",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "M 1075"
+          },
+          "hash": "f6dc924d14f98bb70edf40f2e22ab183a97fd8f4",
+          "property": "P45",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P46": [
+      {
+        "id": "Q99$f7775a48-4590-b5fd-5de0-b09f940c51a9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q63",
+              "numeric-id": 63
+            }
+          },
+          "hash": "ac00635e4b38934e6e44b07e7feb4254b6352982",
+          "property": "P46",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "object"
+    }
+  },
+  "id": "Q99",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Elektron ca. 560-550 v. Chr. (Münster)"
+    }
+  },
+  "lastrevid": 788,
+  "modified": "2025-03-11T15:17:37Z",
+  "ns": 120,
+  "pageid": 159,
+  "sitelinks": {},
+  "title": "Item:Q99",
+  "type": "item"
+}

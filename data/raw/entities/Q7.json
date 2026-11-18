@@ -1,0 +1,96 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "gnd:CorporateBody"
+      },
+      {
+        "language": "de",
+        "value": "foaf:Organization"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "gnd:CorporateBody"
+      },
+      {
+        "language": "en",
+        "value": "foaf:Organization"
+      }
+    ]
+  },
+  "claims": {
+    "P1": [
+      {
+        "id": "Q7$3186f29d-4555-8632-d61c-b5b5b17b763e",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q5",
+              "numeric-id": 5
+            }
+          },
+          "hash": "601c8e56a2a3394f27cfcb24eb1f95a3f8d68633",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q7$45ffa72a-444b-259b-1a31-0aff9f855723",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q42",
+              "numeric-id": 42
+            }
+          },
+          "hash": "eaf13dfca18b574bc0953e28d43f8958cda9ee19",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "core entity"
+    },
+    "en": {
+      "language": "en",
+      "value": "core entity"
+    }
+  },
+  "id": "Q7",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Körperschaft"
+    },
+    "en": {
+      "language": "en",
+      "value": "Corporate Body"
+    }
+  },
+  "lastrevid": 311,
+  "modified": "2024-12-09T17:22:33Z",
+  "ns": 120,
+  "pageid": 7,
+  "sitelinks": {},
+  "title": "Item:Q7",
+  "type": "item"
+}

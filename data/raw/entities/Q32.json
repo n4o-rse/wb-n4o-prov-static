@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "relationship type"
+    }
+  },
+  "id": "Q32",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Spouse"
+    }
+  },
+  "lastrevid": 242,
+  "modified": "2024-12-09T12:21:18Z",
+  "ns": 120,
+  "pageid": 64,
+  "sitelinks": {},
+  "title": "Item:Q32",
+  "type": "item"
+}

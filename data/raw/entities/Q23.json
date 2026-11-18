@@ -1,0 +1,249 @@
+{
+  "aliases": {},
+  "claims": {
+    "P19": [
+      {
+        "id": "Q23$ff2dd10b-4e20-40ed-2e9e-e6169cf5b74f",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15",
+              "numeric-id": 15
+            }
+          },
+          "hash": "85a3b407acd353b10840338dc2effbbc3101a09c",
+          "property": "P19",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q23$2358bcba-46a6-28d4-245d-603dfecf91a4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "hash": "a32497b849d1964f21897e84ee8e80317d84992f",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23$d856d2d6-49b5-a77f-ae72-c81ea0244852",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7",
+              "numeric-id": 7
+            }
+          },
+          "hash": "9c1b9f9b61faedefa272a9c8c980faba6cefe7d5",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q23$46c7c3f7-4483-7ec6-a4ad-e9c06da1b797",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21",
+              "numeric-id": 21
+            }
+          },
+          "hash": "8c4b34ffa960f9cb451266a43dbea3e785cec87f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P21": [
+      {
+        "id": "Q23$5b3d92e4-40c2-2fbb-3873-265e4d9880b1",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://ikmk.smb.museum/ndp/koerperschaft/8652"
+          },
+          "hash": "23c3cafede0524b8d9d04ebc10b45f43bc114ace",
+          "property": "P21",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P22": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P12",
+                  "numeric-id": 12
+                }
+              },
+              "hash": "b3c13ec5fb21cd16ac74d3ce7554d666eac8fd6b",
+              "property": "P22",
+              "snaktype": "value"
+            }
+          ],
+          "P23": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q14",
+                  "numeric-id": 14
+                }
+              },
+              "hash": "6997e5a8f743bd34c7f57f8989839316facdeaff",
+              "property": "P23",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P22",
+          "P23"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "1a9fd2b56f4694c093296ba133291267396bed91",
+            "snaks": {
+              "P13": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://ikmk.smb.museum/object?id=18262496"
+                  },
+                  "hash": "8b30c9b5ebca24009e563ba56fcdcc6c765f3a9a",
+                  "property": "P13",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P13"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P24": [
+      {
+        "id": "Q23$da53aa48-4812-1802-fe3f-fb934c539c94",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://www.wikidata.org/entity/Q14960"
+          },
+          "hash": "c116046f2b4c6d36b775d6146bbd4055966343d3",
+          "property": "P24",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P25": [
+      {
+        "id": "Q23$55714aac-4357-fdeb-6d7b-7a8651544479",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 49.195277777777775,
+              "longitude": 16.608333333333334,
+              "precision": 0.0002777777777777778
+            }
+          },
+          "hash": "588c239514084bf5ea8fce8bbf97930e37f20af9",
+          "property": "P25",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P29": [
+      {
+        "id": "Q23$0014baa9-45d8-e718-a05e-ee3fc5a16293",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://ikmk.smb.museum/object?id=18262496"
+          },
+          "hash": "84280008b8b4da748d8a3c67f5c2f720ff4d12d8",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Firma Stahlgießerei und Maschinenfabrik Ignaz Storek in Brünn"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ignaz Storek steel foundry and machine factory in Brünn"
+    }
+  },
+  "id": "Q23",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Firma Ignaz Storek (Brünn)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ignaz Storek (Brünn)"
+    }
+  },
+  "lastrevid": 436,
+  "modified": "2024-12-09T21:41:47Z",
+  "ns": 120,
+  "pageid": 46,
+  "sitelinks": {},
+  "title": "Item:Q23",
+  "type": "item"
+}

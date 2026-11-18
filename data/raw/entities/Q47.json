@@ -1,0 +1,286 @@
+{
+  "aliases": {},
+  "claims": {
+    "P19": [
+      {
+        "id": "Q47$480a70a2-4d9e-591a-9271-0578ad096597",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15",
+              "numeric-id": 15
+            }
+          },
+          "hash": "85a3b407acd353b10840338dc2effbbc3101a09c",
+          "property": "P19",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q47$88783217-40c6-2490-fb34-074488a7b107",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "hash": "a32497b849d1964f21897e84ee8e80317d84992f",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q47$9b2a7a6f-4c93-3b75-9e65-0260b41edb4c",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6",
+              "numeric-id": 6
+            }
+          },
+          "hash": "c51230a5ab28e222eea895a3c9bc66e113953a89",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q47$62188d9c-4032-d05c-95ef-cfae7f6693e0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18",
+              "numeric-id": 18
+            }
+          },
+          "hash": "479b7153592b4c2c8bdb822c3fb553d75243f7f1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P21": [
+      {
+        "id": "Q47$b7a0fb65-4e02-493e-c47a-315ef9d8a04b",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://ikmk.smb.museum/ndp/person/7490"
+          },
+          "hash": "25c0f70a0a25a079162371bc79bde80082e7b9dd",
+          "property": "P21",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P22": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P12",
+                  "numeric-id": 12
+                }
+              },
+              "hash": "b3c13ec5fb21cd16ac74d3ce7554d666eac8fd6b",
+              "property": "P22",
+              "snaktype": "value"
+            }
+          ],
+          "P23": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q14",
+                  "numeric-id": 14
+                }
+              },
+              "hash": "6997e5a8f743bd34c7f57f8989839316facdeaff",
+              "property": "P23",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P22",
+          "P23"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P24": [
+      {
+        "id": "Q47$65a06715-4d8c-9263-caed-3cbfc802fe85",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://www.wikidata.org/entity/Q4518509"
+          },
+          "hash": "984496cf46f62f456a501a3b786cbd14d0feb737",
+          "property": "P24",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P36": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Ramleh near Alexandria"
+              },
+              "hash": "76e22a6e9a53d2977a1175191afbc5b0144d2c38",
+              "property": "P36",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P36"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P25": [
+      {
+        "id": "Q47$2f8037b7-4803-bebe-ae60-00d2ab7ddbd8",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 31.20138888888889,
+              "longitude": 29.90111111111111,
+              "precision": 0.0002777777777777778
+            }
+          },
+          "hash": "b860364c39e329f84637936c389ff5cdf1c671d5",
+          "property": "P25",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P29": [
+      {
+        "id": "Q47$7bb5a583-4f6b-867a-db84-35fecb30be09",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://ikmk.smb.museum/object?id=18257669"
+          },
+          "hash": "4a976b4fcce37bc99344ebcff01409422763d2b1",
+          "property": "P29",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P32": [
+      {
+        "id": "Q47$1999ce60-4fad-de4e-0d58-c0d60aa53771",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q34",
+              "numeric-id": 34
+            }
+          },
+          "hash": "15c30640dd151a223a603a6522cfcb06de4dcafe",
+          "property": "P32",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P35": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q18",
+                  "numeric-id": 18
+                }
+              },
+              "hash": "10ac3096c87c3d53c0813abd1c0e863d197b4d2e",
+              "property": "P35",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P35"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Herr Avierino in Ramleh bei Alexandria"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mr Avierino of Ramleh near Alexandria"
+    }
+  },
+  "id": "Q47",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Alexander Avierino"
+    },
+    "en": {
+      "language": "en",
+      "value": "Alexander Avierino"
+    }
+  },
+  "lastrevid": 374,
+  "modified": "2024-12-09T21:13:58Z",
+  "ns": 120,
+  "pageid": 83,
+  "sitelinks": {},
+  "title": "Item:Q47",
+  "type": "item"
+}

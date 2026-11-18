@@ -1,0 +1,75 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1": [
+      {
+        "id": "Q15$6cd3b3e8-4022-85dd-59e4-18a7c4ca33b5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q5",
+              "numeric-id": 5
+            }
+          },
+          "hash": "601c8e56a2a3394f27cfcb24eb1f95a3f8d68633",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q15$da4eba69-4539-7d42-90e3-5a9c48b21d0f",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "hash": "6511c2931be27bcac018d16006b07c7c2e704c57",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Thesaurus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Thesaurus"
+    }
+  },
+  "id": "Q15",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Provenance Gazetteer"
+    },
+    "en": {
+      "language": "en",
+      "value": "Provenienzgazetteer"
+    }
+  },
+  "lastrevid": 322,
+  "modified": "2024-12-09T20:43:14Z",
+  "ns": 120,
+  "pageid": 17,
+  "sitelinks": {},
+  "title": "Item:Q15",
+  "type": "item"
+}

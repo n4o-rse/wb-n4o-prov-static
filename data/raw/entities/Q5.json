@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "sub-class of the SKOS plus ontology"
+    }
+  },
+  "id": "Q5",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "SKOS Plus Class"
+    }
+  },
+  "lastrevid": 5,
+  "modified": "2023-11-10T08:31:27Z",
+  "ns": 120,
+  "pageid": 5,
+  "sitelinks": {},
+  "title": "Item:Q5",
+  "type": "item"
+}

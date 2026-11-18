@@ -1,0 +1,63 @@
+{
+  "aliases": {},
+  "claims": {
+    "P2": [
+      {
+        "id": "Q70$47d373bb-426e-29bb-679d-10514a3e5557",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54",
+              "numeric-id": 54
+            }
+          },
+          "hash": "97328927921a3f33123ef0b5a84fb2635ebacee8",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P24": [
+      {
+        "id": "Q70$3ebda626-4d36-d16d-11f2-c5e11e43465b",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://www.wikidata.org/entity/Q105084"
+          },
+          "hash": "ac29b54eaa2ab6297aa8c6c8d7cf8a8cd44dde18",
+          "property": "P24",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "location"
+    }
+  },
+  "id": "Q70",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Gleiwitz"
+    }
+  },
+  "lastrevid": 557,
+  "modified": "2025-03-11T13:18:04Z",
+  "ns": 120,
+  "pageid": 126,
+  "sitelinks": {},
+  "title": "Item:Q70",
+  "type": "item"
+}

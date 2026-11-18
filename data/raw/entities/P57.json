@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "url",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "statement"
+    }
+  },
+  "id": "P57",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "biography (URL)"
+    }
+  },
+  "lastrevid": 582,
+  "modified": "2025-03-11T13:29:33Z",
+  "ns": 122,
+  "pageid": 131,
+  "title": "Property:P57",
+  "type": "property"
+}

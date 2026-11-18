@@ -1,0 +1,31 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "wd:P580"
+      }
+    ]
+  },
+  "claims": {},
+  "datatype": "string",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "qualifier (object -> provenance entity)"
+    }
+  },
+  "id": "P61",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "start time"
+    }
+  },
+  "lastrevid": 945,
+  "modified": "2025-04-08T08:45:47Z",
+  "ns": 122,
+  "pageid": 181,
+  "title": "Property:P61",
+  "type": "property"
+}

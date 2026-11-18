@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "qualifier"
+    }
+  },
+  "id": "P55",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "place type"
+    }
+  },
+  "lastrevid": 534,
+  "modified": "2025-03-11T13:06:34Z",
+  "ns": 122,
+  "pageid": 123,
+  "title": "Property:P55",
+  "type": "property"
+}

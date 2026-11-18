@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "statement"
+    }
+  },
+  "id": "P42",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "status"
+    }
+  },
+  "lastrevid": 467,
+  "modified": "2025-03-11T12:06:31Z",
+  "ns": 122,
+  "pageid": 103,
+  "title": "Property:P42",
+  "type": "property"
+}

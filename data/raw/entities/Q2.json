@@ -1,0 +1,53 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "skos:ConceptScheme"
+      }
+    ]
+  },
+  "claims": {
+    "P1": [
+      {
+        "id": "Q2$882b1cef-4069-877e-14ff-793934d915ae",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q5",
+              "numeric-id": 5
+            }
+          },
+          "hash": "601c8e56a2a3394f27cfcb24eb1f95a3f8d68633",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "SKOS Concept Scheme"
+    }
+  },
+  "id": "Q2",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Concept Scheme"
+    }
+  },
+  "lastrevid": 18,
+  "modified": "2023-11-10T08:55:19Z",
+  "ns": 120,
+  "pageid": 2,
+  "sitelinks": {},
+  "title": "Item:Q2",
+  "type": "item"
+}

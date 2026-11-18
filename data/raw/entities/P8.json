@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "url",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "A has a broad match B"
+    }
+  },
+  "id": "P8",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "broad match"
+    }
+  },
+  "lastrevid": 61,
+  "modified": "2023-11-10T17:31:56Z",
+  "ns": 122,
+  "pageid": 26,
+  "title": "Property:P8",
+  "type": "property"
+}

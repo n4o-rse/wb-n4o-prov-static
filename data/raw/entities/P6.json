@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "A narrower B"
+    }
+  },
+  "id": "P6",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "narrower"
+    }
+  },
+  "lastrevid": 59,
+  "modified": "2023-11-10T17:30:51Z",
+  "ns": 122,
+  "pageid": 24,
+  "title": "Property:P6",
+  "type": "property"
+}

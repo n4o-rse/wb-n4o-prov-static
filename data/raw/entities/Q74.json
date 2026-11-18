@@ -1,0 +1,63 @@
+{
+  "aliases": {},
+  "claims": {
+    "P2": [
+      {
+        "id": "Q74$11ac6c18-49a3-972b-06c6-b5285e38db87",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54",
+              "numeric-id": 54
+            }
+          },
+          "hash": "97328927921a3f33123ef0b5a84fb2635ebacee8",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P24": [
+      {
+        "id": "Q74$c6c1e788-49ce-12a4-2d1a-2a73a37def28",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://www.wikidata.org/entity/Q1055"
+          },
+          "hash": "ce63cde1f26e9821730cc70b0bc81627898de51b",
+          "property": "P24",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "location"
+    }
+  },
+  "id": "Q74",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Hamburg"
+    }
+  },
+  "lastrevid": 594,
+  "modified": "2025-03-11T13:32:58Z",
+  "ns": 120,
+  "pageid": 132,
+  "sitelinks": {},
+  "title": "Item:Q74",
+  "type": "item"
+}

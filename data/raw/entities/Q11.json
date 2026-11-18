@@ -1,0 +1,67 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1": [
+      {
+        "id": "Q11$8209b8b7-4e65-a7d0-cc8a-a958127ebb5d",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q5",
+              "numeric-id": 5
+            }
+          },
+          "hash": "601c8e56a2a3394f27cfcb24eb1f95a3f8d68633",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q11$e185515b-4429-2678-b2c3-ce3272dac3bb",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12",
+              "numeric-id": 12
+            }
+          },
+          "hash": "981b7d0f2083b0bf5aad4e741eb5ebb2a7fb0bec",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Virtual International Authority File"
+    }
+  },
+  "id": "Q11",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "VIAF"
+    }
+  },
+  "lastrevid": 31,
+  "modified": "2023-11-10T08:58:07Z",
+  "ns": 120,
+  "pageid": 11,
+  "sitelinks": {},
+  "title": "Item:Q11",
+  "type": "item"
+}

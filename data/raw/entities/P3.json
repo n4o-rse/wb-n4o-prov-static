@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "C is top concept of CS"
+    }
+  },
+  "id": "P3",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "top concept of"
+    }
+  },
+  "lastrevid": 56,
+  "modified": "2023-11-10T17:29:29Z",
+  "ns": 122,
+  "pageid": 21,
+  "title": "Property:P3",
+  "type": "property"
+}

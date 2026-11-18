@@ -1,0 +1,222 @@
+{
+  "aliases": {},
+  "claims": {
+    "P2": [
+      {
+        "id": "Q129$f1a9a0aa-4976-3384-276f-52182d3f3c70",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33",
+              "numeric-id": 33
+            }
+          },
+          "hash": "eeb13f23b7143738f387f9e54ee143e8516775e3",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P33": [
+      {
+        "id": "Q129$c6075959-44f3-a903-4131-1564749ec36a",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.bildindex.de/document/obj18800025"
+          },
+          "hash": "9758a1b576e2d37bbdb51ae156ef2dc1364d06e9",
+          "property": "P33",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P34": [
+      {
+        "id": "Q129$e07f4102-4e00-f946-b0a2-0c4e31c9b072",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130",
+              "numeric-id": 130
+            }
+          },
+          "hash": "1f5b02a56a8f4f2235abfbfd77c641b9da2a5917",
+          "property": "P34",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P61": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "1994"
+              },
+              "hash": "92db91ee63de18634b9cd8e57f24bc4afea722ae",
+              "property": "P61",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P61"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P45": [
+      {
+        "id": "Q129$bbeb6a65-4172-80c3-a91e-922941635ebe",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "NI 4928"
+          },
+          "hash": "fecac6982300f824601b70e20629c88f0fc59c5a",
+          "property": "P45",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P46": [
+      {
+        "id": "Q129$9b07cd35-4254-68a6-97e6-b9caace8794d",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q108",
+              "numeric-id": 108
+            }
+          },
+          "hash": "8857c0e025075826e987adbbe1dcbeb87cbb7d5b",
+          "property": "P46",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P63": [
+      {
+        "id": "Q129$94edffcb-44a1-f591-b581-07497f75397f",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131",
+              "numeric-id": 131
+            }
+          },
+          "hash": "fe9f0cf373a778725ac37df9f6f26285d48c0836",
+          "property": "P63",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P49": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 9,
+                  "time": "+1835-00-00T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "8334ec4f7fd8b6de48fc55d5d31e1c8ef378e925",
+              "property": "P49",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P49"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q129$5623a86c-4a6a-7db2-0016-a536cb809590",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132",
+              "numeric-id": 132
+            }
+          },
+          "hash": "c91878d79db91a03fb8aad0a52b7ff82bb5299ef",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P62": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "1994"
+              },
+              "hash": "bb5b8a9f5b61f576c00fb5ec9108030bcab3385f",
+              "property": "P62",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P62"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "painting"
+    }
+  },
+  "id": "Q129",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Portrait of Heinrich Böcking"
+    }
+  },
+  "lastrevid": 1057,
+  "modified": "2025-06-02T09:38:51Z",
+  "ns": 120,
+  "pageid": 195,
+  "sitelinks": {},
+  "title": "Item:Q129",
+  "type": "item"
+}

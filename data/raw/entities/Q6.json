@@ -1,0 +1,86 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "gnd:Person"
+      },
+      {
+        "language": "en",
+        "value": "foaf:Person"
+      },
+      {
+        "language": "en",
+        "value": "Human Person"
+      }
+    ]
+  },
+  "claims": {
+    "P1": [
+      {
+        "id": "Q6$272fa0cf-4b59-d90e-aebc-8654e039a383",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q5",
+              "numeric-id": 5
+            }
+          },
+          "hash": "601c8e56a2a3394f27cfcb24eb1f95a3f8d68633",
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q6$a9486c57-42d1-131d-13c8-52801404303d",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q42",
+              "numeric-id": 42
+            }
+          },
+          "hash": "eaf13dfca18b574bc0953e28d43f8958cda9ee19",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "core entity"
+    }
+  },
+  "id": "Q6",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Person"
+    },
+    "en": {
+      "language": "en",
+      "value": "Human"
+    }
+  },
+  "lastrevid": 306,
+  "modified": "2024-12-09T17:21:12Z",
+  "ns": 120,
+  "pageid": 6,
+  "sitelinks": {},
+  "title": "Item:Q6",
+  "type": "item"
+}

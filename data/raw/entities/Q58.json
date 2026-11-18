@@ -1,0 +1,86 @@
+{
+  "aliases": {},
+  "claims": {
+    "P2": [
+      {
+        "id": "Q58$497f0e99-4cdc-9ff6-d971-c08aeae77eef",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55",
+              "numeric-id": 55
+            }
+          },
+          "hash": "5442c98b7cc2f818a29cb1affcf01d6e92a15451",
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q58$9f51b8a7-40cf-4c2f-1ae3-21cb26708111",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P8",
+              "numeric-id": 8
+            }
+          },
+          "hash": "4341a27024c8cc63d0b4ad48db8ef37b89212453",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q58$a4f9ef08-4d29-3444-e37a-4d2f819467bf",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P9",
+              "numeric-id": 9
+            }
+          },
+          "hash": "4d5987b857e23683df3d163c553dd78ab78b65ef",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "alignment score"
+    }
+  },
+  "id": "Q58",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "5 Star"
+    }
+  },
+  "lastrevid": 453,
+  "modified": "2025-03-11T09:29:12Z",
+  "ns": 120,
+  "pageid": 98,
+  "sitelinks": {},
+  "title": "Item:Q58",
+  "type": "item"
+}

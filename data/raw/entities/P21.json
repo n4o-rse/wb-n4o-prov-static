@@ -1,0 +1,24 @@
+{
+  "aliases": {},
+  "claims": {},
+  "datatype": "url",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "entity is aligned with ressource"
+    }
+  },
+  "id": "P21",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "aligned with"
+    }
+  },
+  "lastrevid": 87,
+  "modified": "2023-11-10T17:53:15Z",
+  "ns": 122,
+  "pageid": 40,
+  "title": "Property:P21",
+  "type": "property"
+}
