@@ -5,3 +5,26 @@ Q33,crm:E22_Human-Made_Object,Object
 Q40,crm:E78_Curated_Holding,Collection of a museum or archive (not the SKOS collection Q3)
 Q43,crm:E5_Event,Event
 Q54,crm:E53_Place,Place
+Q1,model,Concept: SKOS class of the model
+Q2,model,Concept Scheme: SKOS class of the model
+Q3,model,Collection: SKOS class of the model; not the museum collection Q40
+Q4,model,Ordered Collection: SKOS class of the model
+Q5,model,SKOS Plus Class: root of the SKOS classes
+Q8,model,Fictive Person: unused vocabulary class; not anchored
+Q9,model,GND: authority file used as alignment repository
+Q10,model,Wikidata: authority file used as alignment repository
+Q11,model,VIAF: authority file used as alignment repository
+Q12,model,Repository: external repository of gazetteer resources; not a holding institution
+Q13,model,Wikipedia: alignment repository
+Q14,model,NDP: alignment repository
+Q15,model,Provenienzgazetteer: thesaurus of the data
+Q16,model,Role: vocabulary class
+Q17,model,Medallist: role
+Q18,model,Previous Owner: role
+Q21,model,Coin Dealer: role
+Q22,model,Body-Gazetteer: thesaurus of the data
+Q24,model,British Museum: alignment repository term
+Q42,model,Core Entity: class of the core classes Human
+Q55,model,Alignment Score: vocabulary class
+Q62,model,Object Type: vocabulary class
+Q77,model,Place Type: vocabulary class
